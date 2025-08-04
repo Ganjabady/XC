@@ -1,4 +1,4 @@
-vless://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327821%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-ss://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327831%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327835%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327919%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327964%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+ss://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327965%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&amp;security=&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327970%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://ff0fe330-141f-4838-8420-2a9c3ee29e52@93.174.164.68:11322?path=%2F&security=&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2327973%20%7C%20%40V2XCore%20%E2%9C%A8

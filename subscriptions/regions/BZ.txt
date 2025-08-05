@@ -1,1 +1,1 @@
-vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.135.235.86:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=/ylks#%F0%9F%87%A7%F0%9F%87%BF%20BZ%20%236190%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://71ed6628-5870-4d19-8a52-f2a3ba3d4898@45.135.235.86:443?security=tls&sni=vs1.ylks2024.us.kg&type=ws&host=vs1.ylks2024.us.kg&path=/ylks#%F0%9F%87%A7%F0%9F%87%BF%20BZ%20%232370%20%7C%20t.me/V2XCore%20%E2%9C%A8

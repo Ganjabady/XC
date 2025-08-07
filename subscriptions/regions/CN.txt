@@ -1,14 +1,32 @@
-    - tls://223.5.5.5#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%237209%20%7C%20%40V2XCore%20%E2%9C%A8
-    - tls://119.29.29.29#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311464%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://a74de79a-3ee9-4bf1-a56c-001631608b69@47.122.155.37:16777?security=reality&encryption=none&pbk=Cn-2697DwC-noUw528vcEYpCGoRU-Vc0ylOpSM94-yE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=57ac8ef7df#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311490%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4&sid=689a9a#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311565%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-9VmVbE7FgF.download.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311672%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311722%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311756%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311807%20%7C%20%40V2XCore%20%F0%9F%94%B0
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-RCmbvsdXhz.download.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311824%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-9VmVbE7FgF.download.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311835%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311903%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-RCmbvsdXhz.download.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311951%20%7C%20%40V2XCore%20%F0%9F%91%91
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311956%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311965%20%7C%20%40V2XCore%20%F0%9F%94%B0
+    - tls://223.5.5.5#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%237169%20%7C%20%40V2XCore%20%F0%9F%94%A5
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:472?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239741%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:472?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239781%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:447?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239835%20%7C%20%40V2XCore%20%F0%9F%94%A5
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:472?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239842%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:447?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239844%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:444?sni=www.ithome.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239848%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:461?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239854%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:444?allowInsecure=1&sni=www.ithome.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239858%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:697?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239859%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:329?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239882%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:697?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239906%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:1601?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239928%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:444?allowInsecure=1&sni=www.ithome.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239929%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:1601?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239937%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:697?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239961%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:329?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%239969%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:461?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2310021%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:461?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2310043%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:1601?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2310056%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:329?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2310085%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+    - tls://119.29.29.29#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2310613%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://d0d08cddacc3190ea81b1b792e1b5fde@36.156.102.125:447?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2310906%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://a74de79a-3ee9-4bf1-a56c-001631608b69@47.122.155.37:16777?security=reality&encryption=none&pbk=Cn-2697DwC-noUw528vcEYpCGoRU-Vc0ylOpSM94-yE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=57ac8ef7df#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311161%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311221%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://0395a16c-cb48-4614-bf19-7bf9ac7aed41@115.190.19.83:29185?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=Ox0EsEq7UYtFUy24Wg3_84XvN4gl3HhH21eX0nPj4x4&sid=689a9a#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311224%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311277%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8774?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-9VmVbE7FgF.download.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311394%20%7C%20t.me/V2XCore%20%E2%9C%A8
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8774#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311584%20%7C%20%40V2XCore%20%E2%9C%A8
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311652%20%7C%20%40V2XCore%20%F0%9F%94%B0
+ss://cmM0LW1kNTplZmFuY2N5dW4=@cn01.efan8867801.xyz:8766#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311894%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+ss://cmM0LW1kNTplZmFuY2N5dW4@cn01.efan8867801.xyz:8766?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D202507282137611-9VmVbE7FgF.download.microsoft.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2311895%20%7C%20%40V2XCore%20%F0%9F%91%91

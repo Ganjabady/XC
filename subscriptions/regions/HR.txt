@@ -1,1 +1,1 @@
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@213.182.199.3:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%231089%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@213.182.199.3:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%239137%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

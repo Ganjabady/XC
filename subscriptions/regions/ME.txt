@@ -1,1 +1,1 @@
-vless://55520747-311e-4015-83ce-be46e2060ce3@77.91.126.60:2053?encryption=none&security=tls&sni=ax1.bgm2024.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=ax1.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2311110%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://55520747-311e-4015-83ce-be46e2060ce3@77.91.126.60:2053?encryption=none&security=tls&sni=ax1.bgm2024.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=ax1.bgm2024.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2310178%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

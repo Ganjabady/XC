@@ -1,2 +1,2 @@
-trojan://ttfang@45.196.29.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%87%B2%F0%9F%87%BA%20MU%20%236848%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://9651462f-ec72-4cc3-95c5-b288fdaa2411@45.196.239.142:62847?&security=tls&flow=xtls-rprx-vision&pbk=V_5TpnTG0Emqgv-ZKM43XucMemAYAzGbMInSYJnQ3gQ&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%87%B2%F0%9F%87%BA%20MU%20%2315822%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://ttfang@45.196.29.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram🇨🇳&Host=ttfang.fange.me#%F0%9F%87%B2%F0%9F%87%BA%20MU%20%234436%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://9651462f-ec72-4cc3-95c5-b288fdaa2411@45.196.239.142:62847?&security=tls&flow=xtls-rprx-vision&pbk=V_5TpnTG0Emqgv-ZKM43XucMemAYAzGbMInSYJnQ3gQ&fp=chrome&sni=yahoo.com&type=tcp&headerType=none&host=yahoo.com&path=%2F#%F0%9F%87%B2%F0%9F%87%BA%20MU%20%2315341%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

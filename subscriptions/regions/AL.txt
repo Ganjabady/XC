@@ -1,1 +1,1 @@
-vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=chrome&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2312981%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://10f3650d-32f6-470a-b100-e29471cf3380@78.159.131.107:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=chrome&security=reality&pbk=6vqqlSsqIQLQ-pmkPfTQ0tJ2kh3U74YqTUcn06nYagY&sid=b6#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2314475%20%7C%20t.me/V2XCore%20%F0%9F%91%91

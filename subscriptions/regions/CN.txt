@@ -1,13 +1,13 @@
-    - tls://223.5.5.5#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313300%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-    - tls://119.29.29.29#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316283%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316592%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316705%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316971%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316986%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316996%20%7C%20%40V2XCore%20%F0%9F%91%91
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316998%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317097%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317100%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317141%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317147%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317167%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+    - tls://223.5.5.5#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312810%20%7C%20%40V2XCore%20%F0%9F%9A%80
+    - tls://119.29.29.29#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2315917%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316271%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316362%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317022%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317028%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317073%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317100%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317119%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317127%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317140%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317141%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317144%20%7C%20t.me/V2XCore%20%F0%9F%91%91

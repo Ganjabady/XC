@@ -1,4 +1,4 @@
-vless://37ec1122-1f20-1498-24b1-a99f8d915f94@87.229.100.156:80?path=/IVApi/DE/2&security=none&encryption=none&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2313853%20%7C%20t.me/V2XCore%20%E2%9C%A8
-vless://f26911d1-7b73-22e1-f2fc-2a60fca4af4f@87.229.100.156:80?path=%2FIVApi%2FDE%2F2&security=none&encryption=none&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2313890%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://8b710ab0-e232-0b98-1e42-f6216e043cc2@87.229.100.156:80?path=/IVApi/DE/2&security=none&encryption=none&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2313948%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2317969%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://f26911d1-7b73-22e1-f2fc-2a60fca4af4f@87.229.100.156:80?path=%2FIVApi%2FDE%2F2&security=none&encryption=none&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2315965%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://37ec1122-1f20-1498-24b1-a99f8d915f94@87.229.100.156:80?path=/IVApi/DE/2&security=none&encryption=none&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2316347%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://8b710ab0-e232-0b98-1e42-f6216e043cc2@87.229.100.156:80?path=/IVApi/DE/2&security=none&encryption=none&type=ws#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2316894%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260&type=tcp&headerType=none#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2317791%20%7C%20%40V2XCore%20%F0%9F%92%8E

@@ -1,1 +1,1 @@
-vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@185.177.238.11:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2317824%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://f7d30f9b-e77f-4162-b553-1ca6f816b870@185.177.238.11:443?security=reality&type=tcp&headerType=&path=&host=&sni=tgju.org&fp=chrome&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&sid=370dd394052f2386#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2318205%20%7C%20%40V2XCore%20%F0%9F%8E%AF

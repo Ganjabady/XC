@@ -1,4 +1,4 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2319551%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2319552%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://46832f38-6b2f-4022-abba-73e21262435e@gr.marzban-locations.com:3047?type=tcp&encryption=none&sni=refersion.com&fp=firefox&security=reality&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&sid=#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2320178%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2320905%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://96fcf8cc-535d-46c4-b8f9-76058df48e3b@94.131.8.19:45448?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=MmEVCRy11fz67vYJQWyA2a_ZPMBzv2le2cus1XSSI0E&sid=958639bf55e679#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2319379%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.102:989#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2319454%20%7C%20%40V2XCore%20%F0%9F%91%91
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2319474%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://46832f38-6b2f-4022-abba-73e21262435e@gr.marzban-locations.com:3047?type=tcp&encryption=none&sni=refersion.com&fp=firefox&security=reality&pbk=21V_VkMUD2XRbyRDg7hjpblUAwxHvlLmbarATdhhJQI&sid=#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2320205%20%7C%20t.me/V2XCore%20%E2%9C%A8

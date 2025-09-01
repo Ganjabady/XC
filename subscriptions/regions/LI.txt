@@ -1,1 +1,1 @@
-vless://1lpxy6haqm@45.15.167.13:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%B1%F0%9F%87%AE%20LI%20%2321893%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://1lpxy6haqm@45.15.167.13:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=1lpxy6haqm-451516713-direct.zamam.co&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%B1%F0%9F%87%AE%20LI%20%2320029%20%7C%20t.me/V2XCore%20%F0%9F%91%91

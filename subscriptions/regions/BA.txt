@@ -1,2 +1,2 @@
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@77.74.228.254:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%234368%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%2317039%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://fab7bf9c-ddb9-4563-8a04-fb01ce6c0fbf@77.74.228.213:8880?encryption=none&security=none&type=ws&host=jp.laoyoutiao.link#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%231677%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@77.74.228.254:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=yg.bantony199.top&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%2314324%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

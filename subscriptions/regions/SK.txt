@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2320182%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@5.35.103.233:443?path=/TG@wxgqlfx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=vxh.wxgqlfx.cn&fp=chrome&type=ws&sni=vxh.wxgqlfx.cn#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2320374%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@156.146.40.194:989#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2320464%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://c96c9785-fd43-4e93-aa00-b17ff8ed19ff@5.35.103.233:443?path=/TG@wxgqlfx?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=vxh.wxgqlfx.cn&fp=chrome&type=ws&sni=vxh.wxgqlfx.cn#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2320488%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

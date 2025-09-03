@@ -1,4 +1,4 @@
-vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@213.182.199.254:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=yg.bantony199.top&path=%2FTelegram#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%230746%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://slch2024@213.182.199.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%236878%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@213.182.199.3:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%238909%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2320921%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://b5441b0d-2147-4898-8a6a-9b2c87f58382@213.182.199.3:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=bitget1.asdasd.click&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%236938%20%7C%20%40V2XCore%20%F0%9F%94%A5
+trojan://slch2024@213.182.199.195:2096?security=tls&sni=ocost-dy.wmlefl.cc&type=ws&path=Telegram🇨🇳&Host=ocost-dy.wmlefl.cc#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2312493%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://34c01e61-f4f3-4afb-a83b-406caf8caa33@213.182.199.254:8880?&sni=Telegram-channel-WangCai2&type=ws&headerType=none&host=yg.bantony199.top&path=%2FTelegram#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2314837%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2321206%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,1 +1,1 @@
-vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.217.81:443?encryption=none&security=tls&sni=mv.ylka.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=mv.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2322189%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://06e4425e-a8cb-4b63-929f-2105604ab0a9@194.76.217.81:443?encryption=none&security=tls&sni=mv.ylka.dpdns.org&alpn=h3&fp=random&allowInsecure=1&type=ws&host=mv.ylka.dpdns.org&path=%2F%3Fed%3D2560#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2322207%20%7C%20%40V2XCore%20%F0%9F%8E%AF

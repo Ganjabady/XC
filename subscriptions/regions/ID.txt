@@ -1,3 +1,3 @@
-vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@202.155.138.134:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2324468%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2324501%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2324743%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://d8dd94fd-540e-461d-b5d4-acebef02c22a@202.155.138.134:34045?encryption=none&security=none&sni=visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2324020%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://idc117okt@103.176.78.153:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2324060%20%7C%20t.me/V2XCore%20%E2%9C%A8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.205.159.100:990#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2324202%20%7C%20t.me/V2XCore%20%E2%9C%A8

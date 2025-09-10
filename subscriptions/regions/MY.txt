@@ -1,13 +1,1 @@
-trojan://58dcd460-65df-47b1-b062-517df30bef29@usa.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325020%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://58dcd460-65df-47b1-b062-517df30bef29@jp.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325034%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://b341f309-7e2b-45c4-a316-9e23037e3711@sg.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325059%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://51c44c4e-f8c2-4419-a52b-b4b7bd915078@ap.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325062%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://192a5fc9-2baa-4043-8655-d840d370cb86@jp.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325366%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325515%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@usa.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325601%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325609%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325612%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325615%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://58dcd460-65df-47b1-b062-517df30bef29@ca.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325623%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://58dcd460-65df-47b1-b062-517df30bef29@sg.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325626%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://18304160-03d4-4c55-95c1-586c0a5f3a0a@ap.liangyuandian.top:443?security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325633%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2325588%20%7C%20%40V2XCore%20%F0%9F%8E%AF

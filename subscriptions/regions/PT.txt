@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2324790%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://35302031-3030-4031-b032-203536203130@195.133.92.56:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2324875%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://35302031-3030-4031-b032-203536203130@195.133.92.56:8442?security=reality&sni=creativecommons.org&allowInsecure=1&fp=chrome&pbk=pFRfJJDY6TYJq-OVgAqFXhdaeur7gJWJM-RZT8g8yAA&sid=59b75803&spx=/&type=tcp&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2324805%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2325152%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

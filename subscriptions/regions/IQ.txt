@@ -1,2 +1,1 @@
-vless://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@ylk.1mao.me:27888?encryption=none&flow=xtls-rprx-vision&security=none&sni=s0.awsstatic.com&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2324802%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@ylk.1mao.me:27888?encryption=none&flow=xtls-rprx-vision&security=reality&sni=s0.awsstatic.com&fp=qq&pbk=yI9lqxK5_5k8KW1ZecGX2Y-CMA0UvkunkjXM5LwNFDI&spx=%2F&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2326923%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://8e0cd6cf-f31e-48aa-ba6d-8399c4e1abaf@ylk.1mao.me:27888?encryption=none&flow=xtls-rprx-vision&security=none&sni=s0.awsstatic.com&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2327024%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

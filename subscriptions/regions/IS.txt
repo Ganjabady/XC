@@ -1,4 +1,4 @@
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324229%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324408%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324581%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2326981%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324055%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://c3dd7afc-151f-44f6-8263-ad3c8420ae2f@45.83.21.107:59997?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=m4ipEx1PUfb6F5Uv5Mwe5g34TzdNkG_rIQ0xw-Do1mI&sid=816473be23c2&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324152%20%7C%20%40V2XCore%20%F0%9F%9A%80
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.152:989#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324189%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@37.235.49.168:989#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324902%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

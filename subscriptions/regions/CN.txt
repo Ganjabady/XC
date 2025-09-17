@@ -1,6 +1,7 @@
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.121:392?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2324194%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.121:392?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2324405%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325569%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325724%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325748%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.121:392?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325778%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.121:392?sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325253%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.121:392?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325262%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.121:392?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325264%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325666%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://2fd0d127-266d-4d0b-b453-f94659a132fc@106.75.134.1:12000?allowInsecure=1&sni=aliyun.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325670%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325677%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2325789%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

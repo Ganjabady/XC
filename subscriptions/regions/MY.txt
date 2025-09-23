@@ -1,4 +1,4 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237155%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237309%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237326%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237334%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237282%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237447%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237449%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237454%20%7C%20%40V2XCore%20%F0%9F%94%A5

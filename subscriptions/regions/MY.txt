@@ -1,5 +1,5 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237540%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237690%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237693%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237695%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?type=grpc&encryption=none&flow=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237708%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237600%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?type=grpc&encryption=none&flow=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237652%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237745%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237748%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237749%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

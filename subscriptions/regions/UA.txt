@@ -1,1 +1,1 @@
-vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=reality&encryption=none&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&headerType=&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net#%F0%9F%87%BA%F0%9F%87%A6%20UA%20%236972%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://387d6d9a-5594-4b2a-a60d-5b2cb1f57638@185.126.255.180:443?security=reality&encryption=none&pbk=AdkdFL1GILtsxWSOcwdB-budJOiw2cXac8eIPxYIokw&headerType=&fp=chrome&spx=/&type=tcp&sni=www.speedtest.net#%F0%9F%87%BA%F0%9F%87%A6%20UA%20%237208%20%7C%20%40V2XCore%20%F0%9F%94%A5

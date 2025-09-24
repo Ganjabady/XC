@@ -1,2 +1,2 @@
-vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?allowInsecure=0&sni=tgju.org&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237302%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?allowInsecure=0&sni=tgju.org&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237805%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?allowInsecure=0&sni=tgju.org&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237333%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://85ef33fe-5f5b-4a8f-9e1e-cbf2738ae96a@180.149.44.216:999?allowInsecure=0&sni=tgju.org&fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237336%20%7C%20%40V2XCore%20%F0%9F%8E%AF

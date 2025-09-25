@@ -1,6 +1,6 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238171%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238230%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238344%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238423%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?type=grpc&encryption=none&flow=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238427%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238434%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.232:8880?security=&fp=chrome&type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238423%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238496%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?type=grpc&encryption=none&flow=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238641%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238642%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238646%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238647%20%7C%20%40V2XCore%20%F0%9F%9A%80

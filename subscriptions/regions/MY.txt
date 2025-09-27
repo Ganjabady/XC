@@ -1,5 +1,5 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238750%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238944%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238945%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?type=grpc&encryption=none&flow=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238946%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238948%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238791%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934019837083133.lisbon-drc-tusaby.info:8880?type=grpc&encryption=none&flow=#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238935%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053019975.tabriz-drc-tusabt.info:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238946%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930381053025132.tabriz-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238951%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176646994428.gorgan-drc-tusabt.info:8880?mode=gun&security=none&encryption=none&type=grpc#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%239052%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

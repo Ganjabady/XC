@@ -1,3 +1,3 @@
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2310774%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2310816%20%7C%20t.me/V2XCore%20%E2%9C%A8
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2310864%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2311355%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2311455%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312755%20%7C%20%40V2XCore%20%F0%9F%94%B0

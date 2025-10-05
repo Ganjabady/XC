@@ -1,5 +1,5 @@
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312208%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312227%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312441%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312470%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312930%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312854%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312927%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://253bc477d4e43c209f2d427272968280@36.156.102.86:22000?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313030%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313085%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313158%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

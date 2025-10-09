@@ -1,4 +1,4 @@
-vless://df245bf8-8253-4029-90d8-ef30cfac75f1@183.240.179.88:11443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313467%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313626%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-https://dd247fc262:80c9752a41@nat-hk-37465.strongpipe.cloud:20443#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313777%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313796%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://df245bf8-8253-4029-90d8-ef30cfac75f1@183.240.179.88:11443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314019%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314222%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314368%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+https://dd247fc262:80c9752a41@nat-hk-37465.strongpipe.cloud:20443#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314458%20%7C%20%40V2XCore%20%F0%9F%8E%AF

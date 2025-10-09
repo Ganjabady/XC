@@ -1,5 +1,5 @@
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312493%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?encryption=none&security=none&sni=yandex.com&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312584%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312639%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312784%20%7C%20%40V2XCore%20%F0%9F%94%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2313310%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312805%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?encryption=none&security=none&sni=yandex.com&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312807%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312816%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@31.129.22.117:8080?allowInsecure=0&sni=yandex.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2312826%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.231.233.173:990#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2313010%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

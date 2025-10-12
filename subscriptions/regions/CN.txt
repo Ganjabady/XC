@@ -1,6 +1,6 @@
-trojan://253bc477d4e43c209f2d427272968280@221.128.195.220:4400?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2312828%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://253bc477d4e43c209f2d427272968280@221.128.195.221:4419?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313075%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://253bc477d4e43c209f2d427272968280@221.128.195.220:4400?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2313246%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314476%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314533%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-https://dd247fc262:80c9752a41@nat-hk-37465.strongpipe.cloud:20443#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314685%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://253bc477d4e43c209f2d427272968280@221.128.195.220:4400?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314661%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://253bc477d4e43c209f2d427272968280@221.128.195.221:4419?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314667%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://253bc477d4e43c209f2d427272968280@221.128.195.221:4419?allowInsecure=1&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314671%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2314881%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2315210%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+https://dd247fc262:80c9752a41@nat-hk-37465.strongpipe.cloud:20443#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2315332%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

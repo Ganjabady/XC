@@ -1,1 +1,1 @@
-vless://63007c60-9f4b-4df6-aa01-0d2babe7854c@185.177.238.112:443?security=reality&encryption=none&pbk=aO2tx4kfUpQWIvT5bO7lH6G1GDfnrThtSFigLJXDens&headerType=none&fp=chrome&type=tcp&sni=tgju.org&sid=370dd394052f2386#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%237552%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2313269%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

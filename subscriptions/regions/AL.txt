@@ -1,2 +1,2 @@
-vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2313514%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2313544%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2313222%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2313295%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

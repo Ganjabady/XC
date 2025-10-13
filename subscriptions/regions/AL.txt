@@ -1,1 +1,1 @@
-vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2312884%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2313037%20%7C%20%40V2XCore%20%F0%9F%8E%AF

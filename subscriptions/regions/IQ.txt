@@ -1,1 +1,2 @@
-trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2315085%20%7C%20%40V2XCore%20%F0%9F%94%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2313401%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=glowingpickle.bananatornado.click#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2315052%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,1 +1,1 @@
-vless://d2965257-0536-4811-a0d5-cdce54e90326@5.252.23.190:81?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2315566%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://d2965257-0536-4811-a0d5-cdce54e90326@5.252.23.190:81?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2315909%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

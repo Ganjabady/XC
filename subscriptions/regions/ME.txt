@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2315347%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?type=grpc&encryption=none#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2314143%20%7C%20%40V2XCore%20%F0%9F%92%8E

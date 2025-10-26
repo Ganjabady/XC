@@ -1,1 +1,1 @@
-vless://d2965257-0536-4811-a0d5-cdce54e90326@45.38.139.10:8443?encryption=none&security=tls&sni=fei.634676.xyz&type=ws&host=fei.634676.xyz&path=%2F%3Fed%3D2560#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2314045%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://419d26b6-7a1f-490e-9c9e-1167a9c75414@us4.fulitech.top:8443?security=reality&encryption=none&pbk=xGJkxBkIWinkCG_5gBYUhlCsNgF2ZP6ZQLw2NAJf2Ss&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=music.apple.com&sid=95248866#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2317951%20%7C%20t.me/V2XCore%20%E2%9C%A8

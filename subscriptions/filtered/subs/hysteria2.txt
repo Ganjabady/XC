@@ -1,2 +1,1 @@
-hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2316199%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-hysteria2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de3.oomz.ru:30000?insecure=1&sni=bing.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2318359%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2317320%20%7C%20%40V2XCore%20%F0%9F%94%B0

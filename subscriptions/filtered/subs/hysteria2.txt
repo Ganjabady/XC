@@ -1,2 +1,1 @@
-hysteria2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899?insecure=1&sni=hl01.mistea.top#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2314141%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2317095%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+hysteria2://C298rctP35EiQTjISVZZ0zU42qOKn7aYjkjiTozTcRg%3D@143.20.156.166:38326?insecure=1&sni=www.microsoft.com&obfs=salamander&obfs-password=wmufVmhTEkFcZ3qLakL9yQ==#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2317179%20%7C%20t.me/V2XCore%20%E2%9C%A8

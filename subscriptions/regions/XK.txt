@@ -1,1 +1,1 @@
-vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2316964%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://c1792e2a-f0bb-4108-ba06-8dd1c1361251@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2317378%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

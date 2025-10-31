@@ -1,6 +1,6 @@
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.7:5135?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318273%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.7:5135?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318274%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.7:5135?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318281%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://e7313acb-7af6-4fee-8483-eeaded7cf3a2@f10021.flyflylflyflyssssnode.sbs:49148?sni=tw02.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318295%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318733%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318799%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.7:5135?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317396%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.7:5135?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317571%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.7:5135?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317654%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://e7313acb-7af6-4fee-8483-eeaded7cf3a2@f10021.flyflylflyflyssssnode.sbs:49148?sni=tw02.ckcloud.info#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317727%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318092%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318198%20%7C%20%40V2XCore%20%F0%9F%94%A5

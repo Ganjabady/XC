@@ -1,5 +1,5 @@
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317719%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2317974%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318055%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318384%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318577%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318212%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318257%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318291%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318689%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318847%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

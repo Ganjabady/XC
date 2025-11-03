@@ -1,1 +1,1 @@
-vless://11db0644-edeb-442c-bd42-e5ea58ea7395@cdn.413918.xyz:40061?allowInsecure=0&sni=itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2319763%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://11db0644-edeb-442c-bd42-e5ea58ea7395@cdn.413918.xyz:40061?allowInsecure=0&sni=itunes.apple.com&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2319813%20%7C%20%40V2XCore%20%F0%9F%94%A5

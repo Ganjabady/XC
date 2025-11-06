@@ -1,4 +1,2 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2317195%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2317249%20%7C%20%40V2XCore%20%E2%9C%A8
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2317946%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-ss://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2318981%20%7C%20%40V2XCore%20%E2%9C%A8
+ss://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2317864%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@77.91.123.207:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2318357%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

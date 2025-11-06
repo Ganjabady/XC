@@ -1,9 +1,4 @@
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2319614%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;allowInsecure=1&amp;type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2319639%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320178%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320207%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320663%20%7C%20%40V2XCore%20%F0%9F%91%91
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320734%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320752%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320774%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?allowInsecure=0#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320781%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;allowInsecure=1&amp;type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2319948%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&amp;sni=www.nintendogames.net&amp;type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320007%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@123.138.202.49:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&security=tls&sni=vlee.amclubs.nyc.mn&fp=chrome#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320409%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320428%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

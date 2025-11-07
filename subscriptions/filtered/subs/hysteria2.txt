@@ -1,4 +1,3 @@
-hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%234900%20%7C%20%40V2XCore%20%F0%9F%94%B0
-hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%239222%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2319509%20%7C%20%40V2XCore%20%F0%9F%91%91
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2319565%20%7C%20%40V2XCore%20%F0%9F%91%91
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316643%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+hysteria2://123456@192.3.85.237:443?insecure=1&sni=bing.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316655%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2319272%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

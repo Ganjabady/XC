@@ -1,2 +1,2 @@
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=temporaltortellini.click&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319792%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&headerType=none&type=tcp&sni=temporaltortellini.click&host=temporaltortellini.click#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319794%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&host=temporaltortellini.click&headerType=none&fp=chrome&type=tcp&sni=temporaltortellini.click#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319692%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://OWB0%3DfZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&headerType=none&type=tcp&sni=temporaltortellini.click&host=temporaltortellini.click#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319698%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

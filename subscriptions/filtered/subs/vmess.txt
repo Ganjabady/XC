@@ -1,1 +1,1 @@
-vmess://26d77d7a-d4ea-40cd-8da5-54a9c84e7362@83.147.13.228:8080?encryption=auto&amp;security=none&amp;fp=&amp;type=ws&amp;path=/ec-McAuth/index#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320845%20%7C%20%40V2XCore%20%F0%9F%91%91
+vmess://26d77d7a-d4ea-40cd-8da5-54a9c84e7362@83.147.13.228:8080?encryption=auto&amp;security=none&amp;fp=&amp;type=ws&amp;path=/ec-McAuth/index#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320487%20%7C%20t.me/V2XCore%20%E2%9C%A8

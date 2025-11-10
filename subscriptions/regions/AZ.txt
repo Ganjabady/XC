@@ -1,2 +1,2 @@
-vless://8562ee66-6dd4-4c8a-8ef3-19ea2aae5760@180.149.44.235:33727?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2319925%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://7f5a93c8-29ac-4c74-bf96-ffb26d7687de@180.149.44.235:33727?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2320260%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://7f5a93c8-29ac-4c74-bf96-ffb26d7687de@180.149.44.235:33727?security=&encryption=none&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2319947%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://8562ee66-6dd4-4c8a-8ef3-19ea2aae5760@180.149.44.235:33727?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2319950%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

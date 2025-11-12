@@ -1,4 +1,4 @@
-vless://18a056b9-6591-45b4-bace-52667b18f8c1@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2319814%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2319918%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2320079%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?type=tcp&encryption=none&flow=#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2320087%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2320247%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://18a056b9-6591-45b4-bace-52667b18f8c1@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2320259%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2320260%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://c3302b07-7717-465a-bf5e-83ac9e9b133d@38.99.95.76:4655?type=tcp&encryption=none&flow=#%F0%9F%87%BD%F0%9F%87%B0%20XK%20%2320918%20%7C%20%40V2XCore%20%F0%9F%94%B0

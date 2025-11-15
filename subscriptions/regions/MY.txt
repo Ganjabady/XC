@@ -1,2 +1,2 @@
-vless://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=tcp&amp;alpn=h3%252Ch2%252Chttp%252F1.1&amp;fp=chrome&amp;security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2322781%20%7C%20%40V2XCore%20%F0%9F%94%B0
-ss://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=tcp&amp;alpn=h3%252Ch2%252Chttp%252F1.1&amp;fp=chrome&amp;security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2322792%20%7C%20%40V2XCore%20%F0%9F%91%91
+ss://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=tcp&amp;alpn=h3%252Ch2%252Chttp%252F1.1&amp;fp=chrome&amp;security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2322993%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://7df5e8d1-5c3f-44d7-b62d-0f8b40d875ea@vpn-srv-3.circlevpn.net:35512?type=tcp&amp;alpn=h3%252Ch2%252Chttp%252F1.1&amp;fp=chrome&amp;security=tls#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2323076%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

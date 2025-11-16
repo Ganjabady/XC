@@ -1,1 +1,1 @@
-trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2321194%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://OWB0=fZqvn38gjhRteQKU@149.104.92.121:16478?security=tls&sni=temporaltortellini.click&fp=chrome&allowInsecure=1&type=tcp&headerType=none&host=t.me/v2Line#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2321298%20%7C%20%40V2XCore%20%F0%9F%94%A5

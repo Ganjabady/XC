@@ -1,1 +1,1 @@
-trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&headerType=none&type=tcp&sni=quietplace.lazymountain.click#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2321281%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://e9GP-sYzrxL2RBjl@64.176.18.21:18415?security=tls&headerType=none&type=tcp&sni=quietplace.lazymountain.click#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2321328%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

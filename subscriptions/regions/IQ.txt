@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMejY4V2Y4bm0zMUVjZkIwVjdIQzFU@81.90.31.219:443#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2319338%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.90.29.66:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&sid=d8c6b58bcbb0c323&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2320408%20%7C%20%40V2XCore%20%E2%9C%A8

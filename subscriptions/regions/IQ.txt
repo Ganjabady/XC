@@ -1,2 +1,3 @@
-vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.90.29.66:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d8c6b58bcbb0c323#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2322218%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2322479%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.90.29.66:443?security=reality&encryption=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=d8c6b58bcbb0c323#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2320511%20%7C%20%40V2XCore%20%F0%9F%94%A5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2321800%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5cHJnWmJCN3hETDRQU3ZFNHdKVTRt@81.90.29.126:53672#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2321884%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

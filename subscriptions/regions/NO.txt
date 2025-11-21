@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZUdBY3dhdmlXeFh6Zzg3QXd2bkU2Z1diaEhIR3d3Qg%3D%3D@89.46.233.148:443#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321627%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://fd7d3e61-288e-4d0f-b5dc-591dcdbc119f@82.25.34.231:443?security=reality&encryption=none&pbk=_XTvBC1BC0f3QVzBPFqLQmyPKabSRxE5Py4jrmO84W8&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=63d80d5199a2bc#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2322020%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

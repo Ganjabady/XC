@@ -1,1 +1,1 @@
-vless://d42c146e-2ded-4b4a-8592-6459ac636910@fi.srv.oplcdn.link:8443?type=tcp&security=reality&sni=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2323312%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://d42c146e-2ded-4b4a-8592-6459ac636910@fi.srv.oplcdn.link:8443?type=tcp&security=reality&sni=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2322887%20%7C%20%40V2XCore%20%F0%9F%91%91

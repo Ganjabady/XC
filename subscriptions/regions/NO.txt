@@ -1,3 +1,1 @@
-trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=aspryonktg.mthjfbiay.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321947%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://ZyX%23rcLFldaPKHUC7NYm@217.170.194.222:13580?security=tls&headerType=none&type=tcp&sni=aspryonktg.mthjfbiay.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321980%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&headerType=none&type=tcp&sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2322038%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2322693%20%7C%20%40V2XCore%20%F0%9F%9A%80

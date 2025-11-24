@@ -1,1 +1,1 @@
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2322693%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2322341%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

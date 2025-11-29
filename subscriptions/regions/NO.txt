@@ -1,2 +1,2 @@
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2323808%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=YkKVT8MJ2lBkvyF05EbsKVczz0U64cKJ-56r19uwAE0&sid=42#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2323875%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2323105%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?security=reality&flow=xtls-rprx-vision&sni=cloudflare.com&type=tcp&fp=random&pbk=YkKVT8MJ2lBkvyF05EbsKVczz0U64cKJ-56r19uwAE0&sid=42#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2323375%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

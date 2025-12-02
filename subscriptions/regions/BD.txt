@@ -1,0 +1,1 @@
+trojan://b5d85905-3dd5-4920-9bbc-f30b342bf558@160.22.215.254:443?path=%2FFree-VPN-CF-Geo-Project%2F160.22.215.254%3D443&security=tls&host=joss.gpj4.web.id&fp=randomized&type=ws&sni=joss.gpj4.web.id#%F0%9F%87%A7%F0%9F%87%A9%20BD%20%2327449%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

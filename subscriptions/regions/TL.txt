@@ -1,2 +1,2 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.22.52.21:443?encryption=none&security=tls&sni=13bca32d.ba73fe85.netlib.re&type=ws&host=13bca32d.ba73fe85.netlib.re&path=%2F#%F0%9F%87%B9%F0%9F%87%B1%20TL%20%231048%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.22.52.156:443?type=ws&security=tls&sni=&host=0857fd70.ba73fe85.netlib.re&path=%2F#%F0%9F%87%B9%F0%9F%87%B1%20TL%20%2316326%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.22.52.21:443?encryption=none&security=tls&sni=13bca32d.ba73fe85.netlib.re&type=ws&host=13bca32d.ba73fe85.netlib.re&path=%2F#%F0%9F%87%B9%F0%9F%87%B1%20TL%20%235646%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.22.52.156:443?type=ws&security=tls&sni=&host=0857fd70.ba73fe85.netlib.re&path=%2F#%F0%9F%87%B9%F0%9F%87%B1%20TL%20%235650%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

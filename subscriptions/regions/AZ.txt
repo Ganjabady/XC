@@ -1,1 +1,1 @@
-vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%239322%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%239435%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

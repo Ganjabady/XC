@@ -1,2 +1,1 @@
-hysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%239026%20%7C%20%40V2XCore%20%F0%9F%94%A5
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%239471%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%239911%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

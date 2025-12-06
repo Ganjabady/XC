@@ -1,3 +1,3 @@
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%238863%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%238868%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA%3D%3D@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%238879%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%238798%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%238804%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA%3D%3D@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%238893%20%7C%20%40V2XCore%20%F0%9F%8E%AF

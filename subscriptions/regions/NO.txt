@@ -1,4 +1,4 @@
-vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@51.120.240.39:443?type=ws&security=tls&sni=&host=ak.suoni.nyc.mn&path=%2Fproxyip%253Dsjc.o00o.ooo#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%239529%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%239694%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%239749%20%7C%20%40V2XCore%20%F0%9F%94%B0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2310455%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://78fc9ba9-9c68-4b49-891f-ea9e38bd3b56@51.120.240.39:443?type=ws&security=tls&sni=&host=ak.suoni.nyc.mn&path=%2Fproxyip%253Dsjc.o00o.ooo#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%239885%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://pHEiSqez.13%236bctokYl@217.170.194.223:24591?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=bldgmy.nejzftlubrig.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%239973%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2310002%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2310465%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

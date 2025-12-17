@@ -1,2 +1,2 @@
-vmess://80039b4d-bac0-4f89-82c7-54fad3b0a1ea@47.250.45.234:8613?type=ws&amp;path=/arki&amp;packetEncoding=xudp#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2312195%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-ss://80039b4d-bac0-4f89-82c7-54fad3b0a1ea@47.250.45.234:8613?type=ws&amp;path=/arki&amp;packetEncoding=xudp#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2312222%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vmess://80039b4d-bac0-4f89-82c7-54fad3b0a1ea@47.250.45.234:8613?type=ws&amp;path=/arki&amp;packetEncoding=xudp#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2312559%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+ss://80039b4d-bac0-4f89-82c7-54fad3b0a1ea@47.250.45.234:8613?type=ws&amp;path=/arki&amp;packetEncoding=xudp#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2312564%20%7C%20%40V2XCore%20%F0%9F%8E%AF

@@ -1,7 +1,10 @@
-vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313877%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&amp;packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313884%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313892%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313895%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&amp;packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313898%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313899%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://355648ef-e752-4e8a-be99-e003d1327a3d@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313900%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://355648ef-e752-4e8a-be99-e003d1327a3d@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313722%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://05b2c8e6-3fbd-40e9-ae9a-799f9a8d46a8@180.149.44.70:4655?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=&encryption=none&headerType=&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313724%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&amp;packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313727%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://f341ab4c-44a2-4b91-8945-59cbc49d67a9@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313731%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313733%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://892930fd-0235-4352-817d-01a3ac3c70c5@180.149.44.70:4655?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313734%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313738%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+ss://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313749%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?encryption=none&amp;packetEncoding=xudp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313763%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://2668fdee-331d-4770-8244-d2a4efbf6ef8@180.149.44.70:4655?security=none&type=tcp&encryption=none#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2313795%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

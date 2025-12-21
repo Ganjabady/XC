@@ -1,3 +1,3 @@
-vmess://e6395c20-4571-4b34-d6b1-55a5d36e49ea@hgtrojan.zabc.net:2083?security=tls&amp;type=ws&amp;host=hgtrojan.zabc.net&amp;path=/e6395c20&amp;packetEncoding=xudp#%F0%9F%8C%90%20Unknown%20%236747%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vmess://e6395c20-4571-4b34-d6b1-55a5d36e49ea@hgtrojan.zabc.net:2083?security=tls&amp;sni=hgtrojan.zabc.net&amp;type=ws&amp;host=hgtrojan.zabc.net&amp;path=/e6395c20&amp;packetEncoding=xudp#%F0%9F%8C%90%20Unknown%20%236894%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vmess://b52650a3-6e8d-46e9-850c-f886818603da@91.107.145.167:32156?packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2312029%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://e6395c20-4571-4b34-d6b1-55a5d36e49ea@hgtrojan.zabc.net:2083?security=tls&amp;type=ws&amp;host=hgtrojan.zabc.net&amp;path=/e6395c20&amp;packetEncoding=xudp#%F0%9F%8C%90%20Unknown%20%235962%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vmess://e6395c20-4571-4b34-d6b1-55a5d36e49ea@hgtrojan.zabc.net:2083?security=tls&amp;sni=hgtrojan.zabc.net&amp;type=ws&amp;host=hgtrojan.zabc.net&amp;path=/e6395c20&amp;packetEncoding=xudp#%F0%9F%8C%90%20Unknown%20%238909%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vmess://b52650a3-6e8d-46e9-850c-f886818603da@91.107.145.167:32156?packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2312296%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

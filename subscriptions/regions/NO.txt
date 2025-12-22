@@ -1,8 +1,9 @@
-vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312253%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?sni=83.143.87.9&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312257%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;headerType=none&amp;type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312412%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312614%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312722%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312766%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=io.ozone.ru#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312837%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true&amp;fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312954%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312355%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312377%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;headerType=none&amp;type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312384%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312420%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&headerType=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312427%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312716%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://a5inYFE%3DJGV89%2BhjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=io.ozone.ru#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312740%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true&amp;fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312747%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&sni=io.ozone.ru&allowInsecure=true&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312754%20%7C%20%40V2XCore%20%F0%9F%9A%80

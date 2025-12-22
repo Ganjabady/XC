@@ -1,6 +1,6 @@
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312153%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?sni=83.143.87.9&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312210%20%7C%20t.me/V2XCore%20%E2%9C%A8
-vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312223%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312297%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312569%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312616%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?sni=83.143.87.9&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312231%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312292%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312416%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?sni=io.ozone.ru&allowInsecure=1&fp=chrome#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312475%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581?security=tls&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312533%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&amp;sni=io.ozone.ru&amp;allowInsecure=true#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2312747%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

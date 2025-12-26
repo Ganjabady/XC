@@ -1,1 +1,1 @@
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&amp;sni=web.max.ru&amp;allowInsecure=true&amp;fp=chrome#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2316289%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&amp;sni=web.max.ru&amp;allowInsecure=true&amp;fp=chrome#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2314435%20%7C%20t.me/V2XCore%20%E2%9C%A8

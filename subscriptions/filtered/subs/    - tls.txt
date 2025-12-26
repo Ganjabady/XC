@@ -1,5 +1,1 @@
-    - tls://1.1.1.1:853#%F0%9F%8C%90%20Unknown%20%2310426%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-    - tls://dns.opendns.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2314752%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-    - tls://dns.umbrella.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316457%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-    - tls://dns.sse.cisco.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316622%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-    - tls://dns.adguard-dns.com#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%2320196%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+    - tls://dns.google#%F0%9F%87%BA%F0%9F%87%B8%20US%20%239806%20%7C%20%40V2XCore%20%F0%9F%9A%80

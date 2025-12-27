@@ -1,2 +1,2 @@
-vmess://44932f63-70b6-4cd8-a77b-8fbf623ec19a@5.129.233.127:443?packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2315329%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vmess://372c1939-299d-4946-9633-5ffa971f8b67@n1761214911.74qxv.top:443?security=tls&amp;sni=n1761214911.74qxv.top&amp;type=ws&amp;host=n1761214911.74qxv.top&amp;path=/&amp;packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2316156%20%7C%20%40V2XCore%20%F0%9F%91%91
+vmess://44932f63-70b6-4cd8-a77b-8fbf623ec19a@5.129.233.127:443?packetEncoding=xudp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2313249%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vmess://372c1939-299d-4946-9633-5ffa971f8b67@n1761214911.74qxv.top:443?security=tls&amp;sni=n1761214911.74qxv.top&amp;type=ws&amp;host=n1761214911.74qxv.top&amp;path=/&amp;packetEncoding=xudp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2316578%20%7C%20%40V2XCore%20%F0%9F%9A%80

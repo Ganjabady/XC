@@ -1,1 +1,4 @@
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%2315167%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?packetEncoding=xudp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2312614%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://d24c499b-3b25-441e-9c6e-b12421a91041@66.253.7.178:20521?type=ws&amp;path=/&amp;packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312637%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://e6395c20-4571-4b34-d6b1-55a5d36e49ea@hgtrojan.zabc.net:2083?security=tls&amp;sni=hgtrojan.zabc.net&amp;type=ws&amp;host=hgtrojan.zabc.net&amp;path=/e6395c20&amp;packetEncoding=xudp#%F0%9F%8C%90%20Unknown%20%2313139%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vmess://9855f1f0-a800-40d4-8b38-c7d3eb79302d@94.131.108.36:443?type=ws&amp;path=/&amp;packetEncoding=xudp#%F0%9F%87%B2%F0%9F%87%A9%20MD%20%2316474%20%7C%20%40V2XCore%20%E2%9C%A8

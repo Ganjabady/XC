@@ -1,1 +1,1 @@
-vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2315374%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2314925%20%7C%20%40V2XCore%20%F0%9F%92%8E

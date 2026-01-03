@@ -1,2 +1,2 @@
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2318753%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-hysteria2://infowild@gamingger02.wilduser.org:443?insecure=1&sni=bts.com&obfs=salamander&obfs-password=7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2319200%20%7C%20%40V2XCore%20%F0%9F%9A%80
+hysteria2://infowild@gamingger02.wilduser.org:443?insecure=1&sni=bts.com&obfs=salamander&obfs-password=7suXl4gmts7Zkb2BTlJGcDr4NEF9mQGh#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2317430%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2317907%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

@@ -1,1 +1,1 @@
-vmess://e6395c20-4571-4b34-d6b1-55a5d36e49ea@hgtrojan.zabc.net:2083?security=tls&amp;type=ws&amp;host=hgtrojan.zabc.net&amp;path=/e6395c20&amp;packetEncoding=xudp#%F0%9F%8C%90%20Unknown%20%2317550%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vmess://ede27a79-b039-490b-932c-495de4b68880@162.19.248.238:550?packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2316448%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

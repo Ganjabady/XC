@@ -1,2 +1,2 @@
-hysteria2://asrnovin_ir@89.208.104.13:443?insecure=1&sni=bts.com&obfs=salamander&obfs-password=SjSQ10UvLYEztFdQKTJQFA8imEc4W#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2317136%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2318692%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+hysteria2://asrnovin_ir@89.208.104.13:443?insecure=1&sni=bts.com&obfs=salamander&obfs-password=SjSQ10UvLYEztFdQKTJQFA8imEc4W#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2316984%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+hysteria2://2408982813-20241210@genshin-v4-oracle-amd.damaoooo.com:443?insecure=0#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2317638%20%7C%20t.me/V2XCore%20%E2%9C%A8

@@ -1,1 +1,1 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@186.67.70.55:443?security=tls&sni=zx.ylks.xyz&type=ws&path=%2F%3Fproxyip#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2318787%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@186.67.70.55:443?security=tls&sni=zx.ylks.xyz&type=ws&path=%2F%3Fproxyip#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2319009%20%7C%20%40V2XCore%20%F0%9F%92%8E

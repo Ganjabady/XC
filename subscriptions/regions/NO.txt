@@ -1,7 +1,7 @@
-vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=azure.com&fp=chrome&security=reality&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&sid=#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2320749%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2320805%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321069%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321124%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321286%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321386%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321473%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2320966%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321055%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://84f66368-8a37-468e-ae95-5622255fd4db@217.170.199.132:443?security=reality&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=azure.com#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321069%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://30839e94-8a2f-495b-a20d-d49828160500@185.14.97.152:443?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=cloudflare.com&fp=r...#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321146%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321168%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1OTVITEYzZkhVdXcwTWNNNTF0cHZQeWdTSUIxdWY0RA==@107.174.114.71:443#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2321790%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%2322984%20%7C%20%40V2XCore%20%F0%9F%94%B0

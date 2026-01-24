@@ -1,1 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2322609%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://76636b35-e926-4b10-8336-c0d0c48a42b8@89.115.133.255:443?encryption=none&security=tls&sni=ccffllyy.1412.me&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ccffllyy.1412.me&path=%2F%3Fed%3D2048#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2321405%20%7C%20%40V2XCore%20%F0%9F%9A%80

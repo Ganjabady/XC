@@ -1,1 +1,1 @@
-vless://5a2c16f9-e365-4080-8d38-6924c3835586@92.42.96.223:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2322071%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://5a2c16f9-e365-4080-8d38-6924c3835586@92.42.96.223:443?encryption=none&security=tls&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3WangCai2#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2320833%20%7C%20%40V2XCore%20%F0%9F%91%91

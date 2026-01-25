@@ -1,1 +1,2 @@
-vless://4352f2a7-d620-474e-9249-e866774a2c81@5.188.94.5:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=%2Fhgffg#%F0%9F%87%AE%F0%9F%87%B1%20IL%20%2322215%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://4352f2a7-d620-474e-9249-e866774a2c81@5.188.94.5:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=%2Fhgffg#%F0%9F%87%AE%F0%9F%87%B1%20IL%20%2322029%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#%F0%9F%87%AE%F0%9F%87%B1%20IL%20%2322847%20%7C%20%40V2XCore%20%E2%9C%A8

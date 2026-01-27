@@ -1,1 +1,1 @@
-vless://76636b35-e926-4b10-8336-c0d0c48a42b8@213.111.130.91:30178?encryption=none&security=tls&sni=ccffllyy.1412.me&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ccffllyy.1412.me&path=%2F%3Fed%3D2048#%F0%9F%87%B3%F0%9F%87%AC%20NG%20%2323552%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://76636b35-e926-4b10-8336-c0d0c48a42b8@213.111.130.91:30178?encryption=none&security=tls&sni=ccffllyy.1412.me&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=ccffllyy.1412.me&path=%2F%3Fed%3D2048#%F0%9F%87%B3%F0%9F%87%AC%20NG%20%2323954%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,3 +1,1 @@
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2322810%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?sni=web.max.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2322914%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2323159%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2323101%20%7C%20%40V2XCore%20%F0%9F%91%91

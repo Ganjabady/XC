@@ -1,1 +1,1 @@
-vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn5.suio.me:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2324259%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1@nlcdn5.suio.me:443?type=tcp&encryption=none&flow=&security=tls&sni=nlcdn5.suio.me&allowInsecure=1#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2324689%20%7C%20%40V2XCore%20%F0%9F%91%91

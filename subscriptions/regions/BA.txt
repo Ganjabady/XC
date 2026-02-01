@@ -1,1 +1,1 @@
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.74.228.96:2096?security=tls&type=ws&headerType=&path=&host=De05.SiMaNsAnAt.Ir.&sni=De05.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%235530%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.74.228.96:2096?security=tls&type=ws&headerType=&path=&host=De05.SiMaNsAnAt.Ir.&sni=De05.SiMaNsAnAt.Ir.&fp=chrome&alpn=h2#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%2320614%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

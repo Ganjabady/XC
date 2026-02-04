@@ -1,1 +1,1 @@
-hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2322032%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+hysteria2://e72b54df-3c45-4856-bcf9-bf3e1bf6ff5e@134.195.101.191:443?insecure=1&sni=www.apple.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2322433%20%7C%20%40V2XCore%20%F0%9F%9A%80

@@ -1,2 +1,2 @@
-vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@91.148.134.83:8443?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=/?ed=2048#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2323773%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=/hgffg#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2323880%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@91.148.134.83:8443?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=/?ed=2048#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2323899%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=/hgffg#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2324073%20%7C%20%40V2XCore%20%F0%9F%91%91

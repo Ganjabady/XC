@@ -1,2 +1,2 @@
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2325911%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2326877%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2326395%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2326575%20%7C%20%40V2XCore%20%F0%9F%8E%AF

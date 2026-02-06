@@ -1,1 +1,1 @@
-vless://d9fa5060-431d-4f67-b4e1-ad4533fdf4e4@nld.pink-service.ru:11443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&type=grpc&sni=www.google.com&sid=86b80f1e713a33ad#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2328262%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://d9fa5060-431d-4f67-b4e1-ad4533fdf4e4@nld.pink-service.ru:11443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&type=grpc&sni=www.google.com&sid=86b80f1e713a33ad#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2328984%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

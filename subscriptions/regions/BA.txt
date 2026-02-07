@@ -1,2 +1,2 @@
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.74.228.181:2096?security=tls&amp%3Bsni=De15.SiMaNsAnAt.Ir.&amp%3Btype=ws&amp%3Bhost=De15.SiMaNsAnAt.Ir.#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%232591%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.74.228.96:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%2312205%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.74.228.96:2096?security=tls&sni=De15.SiMaNsAnAt.Ir.&type=ws&host=De15.SiMaNsAnAt.Ir.#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%238475%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://1149be91-5a4f-47de-995f-66f8d7d64498@77.74.228.181:2096?security=tls&amp%3Bsni=De15.SiMaNsAnAt.Ir.&amp%3Btype=ws&amp%3Bhost=De15.SiMaNsAnAt.Ir.#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%239878%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

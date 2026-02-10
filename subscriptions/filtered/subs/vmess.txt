@@ -1,5 +1,1 @@
-vmess://a6b99c05-8e0a-4f7e-bf7b-e4b9febb9589@172.234.132.232:10001?packetEncoding=xudp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%230731%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vmess://ec4c349c-b3c6-4cff-be63-01eaad1dc098@217.69.5.32:443?packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2316608%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vmess://9e91d19a-c73f-4276-adbc-b337c374259c@94.232.247.165:45653?packetEncoding=xudp#%F0%9F%87%B2%F0%9F%87%A9%20MD%20%2316641%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vmess://ec4c349c-b3c6-4cff-be63-01eaad1dc098@217.69.5.32:443?packetEncoding=xudp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2318342%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?packetEncoding=xudp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%2318530%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://bddcb397-6f52-458e-9937-dfbf69db1e48@de3c.buzzon.shop:443?alpn=http%2F1.1&encryption=auto&host=de3c.buzzon.shop&path=%2Fx3VTnag3uLXXhaYVIROnda&security=tls&sni=de3c.buzzon.shop&type=ws#%F0%9F%8C%90%20Unknown%20%2313529%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

@@ -1,1 +1,1 @@
-hysteria2://spectrumvpn@uk.spectrum.vu:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=3Lse3bDmcLLlEa77sdYZe0o6kywbTwII#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2330680%20%7C%20%40V2XCore%20%F0%9F%92%8E
+hysteria2://spectrumvpn@uk.spectrum.vu:443?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=3Lse3bDmcLLlEa77sdYZe0o6kywbTwII#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2329129%20%7C%20%40V2XCore%20%F0%9F%92%8E

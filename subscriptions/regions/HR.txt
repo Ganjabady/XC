@@ -1,3 +1,1 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%238649%20%7C%20%40V2XCore%20%F0%9F%94%A5
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@46.183.184.60:989#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2332072%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiU0ZNdk5MSGFwcDRacmNHSVh5OVZ0@5.181.2.73:43248#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2332150%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.182.199.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2321680%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

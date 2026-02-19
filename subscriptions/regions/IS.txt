@@ -1,2 +1,4 @@
-trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2331203%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2332016%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2332424%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335744%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?security=tls&sni=web.max.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335754%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.169:10889?security=tls&sni=ya.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335759%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

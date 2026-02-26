@@ -1,1 +1,1 @@
-vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@190.198.211.52:16755?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2048#%F0%9F%87%BB%F0%9F%87%AA%20VE%20%2335625%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@190.198.211.52:16755?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2048#%F0%9F%87%BB%F0%9F%87%AA%20VE%20%2336122%20%7C%20%40V2XCore%20%F0%9F%91%91

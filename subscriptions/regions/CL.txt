@@ -1,2 +1,2 @@
-vless://48198295-b7ba-4b5c-8d85-085d55a6c869@186.67.70.55:443?security=tls&sni=zx.ylks.xyz&type=ws&path=%2F%3Fproxyip#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2333491%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@186.67.70.55:443?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2333558%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@186.67.70.55:443?security=tls&sni=zx.ylks.xyz&type=ws&path=%2F%3Fproxyip#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2331705%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://4c642cae-1a6d-4e51-a1c3-fa5892437aa3@186.67.70.55:443?encryption=none&security=tls&sni=5465765525.ccfly.tech&fp=chrome&type=ws&host=5465765525.ccfly.tech&path=%2F%3Fed%3D2048#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2332027%20%7C%20%40V2XCore%20%F0%9F%94%A5

@@ -1,2 +1,2 @@
-vmess://10f0133c-39c5-4224-f53d-ec4491114a59@66.103.210.150:13485?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2330202%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-vmess://3935c2dc-dbb0-43f7-b367-fe89abe87fdf@173.249.209.146:20086?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2330618%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vmess://60441548-b68e-43b2-8191-e3b884be4b3c@104.17.77.77:8443?encryption=none&host=v2ray1.dozapp.xyz&path=%2FlMnsZUN4%2F&security=tls&sni=v2ray1.dozapp.xyz&type=ws#%F0%9F%8C%90%20Unknown%20%2322675%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vmess://959a8caf-4cea-43d0-a548-3628e7ddfafc@165.154.195.38:35034?encryption=auto&security=none&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2335785%20%7C%20%40V2XCore%20%F0%9F%91%91

@@ -1,1 +1,1 @@
-vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=/hgffg#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2330804%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://4352f2a7-d620-474e-9249-e866774a2c81@80.93.215.62:443?security=tls&sni=gcore.com&type=ws&host=ebnada.com&path=/hgffg#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2336684%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

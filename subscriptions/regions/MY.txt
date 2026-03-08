@@ -1,2 +1,2 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@210.186.12.244:443?security=tls&sni=kkd.ylks.link&type=ws&path=/?proxyip#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2337115%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@146.75.27.57:80?encryption=none&security=none&type=ws&host=adspeedx23.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2337116%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@146.75.27.57:80?encryption=none&security=none&type=ws&host=adspeedx23.global.ssl.fastly.net&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2336335%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@210.186.12.244:443?security=tls&sni=kkd.ylks.link&type=ws&path=/?proxyip#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2336728%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

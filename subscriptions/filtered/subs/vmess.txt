@@ -1,1 +1,1 @@
-vmess://cfd46598-6814-4198-9273-e78339b14b9f@ali.kavrtest.ir:30573?encryption=auto&security=tls&sni=ali.kavrtest.ir&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%2337496%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vmess://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=%2Fvmess&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%2333365%20%7C%20%40V2XCore%20%F0%9F%94%B0

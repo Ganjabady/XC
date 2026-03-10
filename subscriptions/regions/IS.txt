@@ -1,4 +1,4 @@
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&sni=nlcdn12.suio.me&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335670%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?sni=web.max.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335698%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2337132%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2338586%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&sni=nlcdn12.suio.me&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2334410%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2334823%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.172:10889?sni=web.max.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335746%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2337693%20%7C%20%40V2XCore%20%F0%9F%94%A5

@@ -1,1 +1,2 @@
-vmess://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%2333764%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vmess://f2fd0786-1059-4f64-d54e-3f3a568c6c68@46.246.126.154:443?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%2333840%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vmess://d7f56688-56a0-448c-bc04-fd83c6ac17d0@213.183.54.243:443?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%2334803%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

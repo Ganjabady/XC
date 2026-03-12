@@ -1,4 +1,8 @@
-vmess://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:10412?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312246%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vmess://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2329373%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vmess://5c040f1d-45db-43bd-8d46-e4950e433735@45.90.106.24:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2334175%20%7C%20%40V2XCore%20%F0%9F%91%91
-vmess://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2334708%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vmess://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:10410?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313383%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vmess://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:10412?encryption=auto&security=none&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2331466%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vmess://e3d470bd-e38c-48df-951a-53142b6beaea@45.152.21.189:48459?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2332440%20%7C%20%40V2XCore%20%F0%9F%91%91
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@45.90.106.24:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2332594%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vmess://4ea0fcda-4f32-4dc6-8e01-993d5fdcf65c@45.152.21.193:48814?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2332947%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vmess://9a1351cb-d8be-4182-8145-353425969ac0@45.152.21.193:29628?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2333106%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2333568%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2335871%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,1 +1,1 @@
-hysteria2://0db758b4-e2ea-4716-bc9f-089bf6a1a30b@zz.9966663.xyz:50017?insecure=1&sni=do-vnyear.9966663.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2332454%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+hysteria2://1ae9f3fa-46a3-4ccf-ac29-990ec9673022@svt1.fq.ito8.com:8080?sni=svt1.fq.ito8.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2332889%20%7C%20%40V2XCore%20%F0%9F%9A%80

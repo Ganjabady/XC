@@ -1,4 +1,4 @@
-vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&sni=nlcdn12.suio.me&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2334268%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2334455%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?sni=ozon.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335947%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2338110%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://8664a37d-40c9-47f0-8619-d9199651be2c@144.31.128.67:443?encryption=none&security=tls&sni=nlcdn12.suio.me&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2334572%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.130.65:8443?security=reality&type=tcp&sni=ice.speedload.online&fp=chrome&flow=xtls-rprx-vision&sid=a20d3ed244c76426&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&encryption=none#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2335471%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2338663%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.152:10889?sni=ozon.ru#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2338665%20%7C%20t.me/V2XCore%20%E2%9C%A8

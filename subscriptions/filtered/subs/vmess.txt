@@ -1,4 +1,2 @@
-vmess://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2332417%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-vmess://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2332714%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-vmess://9a1351cb-d8be-4182-8145-353425969ac0@45.152.21.193:29628?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2333112%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vmess://4ea0fcda-4f32-4dc6-8e01-993d5fdcf65c@45.152.21.193:48814?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2335665%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vmess://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2333109%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2333160%20%7C%20%40V2XCore%20%E2%9C%A8

@@ -1,2 +1,1 @@
-vmess://5c040f1d-45db-43bd-8d46-e4950e433735@141.95.65.9:1234?allowInsecure=1&encryption=aes-128-gcm&security=tls&sni=supervpn.super.com&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2333109%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vmess://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2333160%20%7C%20%40V2XCore%20%E2%9C%A8
+vmess://488e87ee-074c-4e53-98ea-6392288bdc71@151.243.3.59:17858?encryption=auto&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2333036%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

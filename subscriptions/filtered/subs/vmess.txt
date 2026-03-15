@@ -1,3 +1,2 @@
-vmess://d4dac19d-bf0e-4760-ebb3-f150a48dc92b@82.25.181.162:31992?encryption=auto&path=%2Ff150a48dc92b&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%2334175%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2334599%20%7C%20%40V2XCore%20%E2%9C%A8
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2335350%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2335617%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2335866%20%7C%20t.me/V2XCore%20%E2%9C%A8

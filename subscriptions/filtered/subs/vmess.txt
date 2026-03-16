@@ -1,2 +1,2 @@
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2333922%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vmess://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=%2Fvmess&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%2338115%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2334674%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://6b2d86e5-df05-4511-a79f-82d53ce99b36@fsdns1.ectunnelvpn.me:80?encryption=auto&host=fsdns1.ectunnelvpn.me&path=%2Fvmess&security=none&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%2335135%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

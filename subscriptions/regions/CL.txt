@@ -1,1 +1,1 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%233741%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%234103%20%7C%20%40V2XCore%20%F0%9F%8E%AF

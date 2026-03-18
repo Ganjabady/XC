@@ -1,1 +1,1 @@
-vless://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=/x&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6%20UA%20%233739%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://ccb8e0cd3b764e97bf6dd015830a5510@130.0.233.100:8443?encryption=none&type=xhttp&path=/x&security=reality&sni=ya.ru&pbk=oJXngdG-SwLxHt2tJonmC-T_6PS4UEACLWj4sbfetno&sid=aabbccdd&fp=chrome#%F0%9F%87%BA%F0%9F%87%A6%20UA%20%233821%20%7C%20%40V2XCore%20%E2%9C%A8

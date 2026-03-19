@@ -1,1 +1,2 @@
-vless://f9f8adb0-9614-4abb-90d1-35f77bcf7e82@185.39.207.3:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&sni=sun6-22.userapi.com&path=&host=#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%234021%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://f9f8adb0-9614-4abb-90d1-35f77bcf7e82@185.39.207.3:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=dESiyU_gELcaVL552vqOLJIAeGBnb6uGyNC-Jhtg5ic&sid=ad7dab462a323acb&sni=sun6-22.userapi.com&path=&host=#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%234383%20%7C%20%40V2XCore%20%F0%9F%92%8E
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%234501%20%7C%20%40V2XCore%20%F0%9F%92%8E

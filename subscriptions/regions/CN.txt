@@ -1,2 +1,1 @@
-vless://f6ddddaf-dfd6-4134-9dae-03b93b03d145@183.240.252.165:8654?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%234828%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://f6ddddaf-dfd6-4134-9dae-03b93b03d145@183.240.252.165:8654?encryption=none&security=none&type=tcp&headerType=none#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%234833%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%235454%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

@@ -1,1 +1,1 @@
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@5.180.55.152:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%234388%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@5.180.55.152:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%234408%20%7C%20%40V2XCore%20%F0%9F%8E%AF

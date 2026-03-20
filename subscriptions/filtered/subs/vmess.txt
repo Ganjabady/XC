@@ -1,2 +1,4 @@
-vmess://0654d64d-08bf-43e5-ad44-18a7d1a8d6f7@46.225.54.75:10410?encryption=auto&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%233818%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%233896%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%233411%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%233657%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%233898%20%7C%20%40V2XCore%20%E2%9C%A8
+vmess://0654d64d-08bf-43e5-ad44-18a7d1a8d6f7@46.225.54.75:10410?encryption=auto&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%233925%20%7C%20%40V2XCore%20%F0%9F%94%A5

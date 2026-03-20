@@ -1,2 +1,1 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%233914%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=1&sni=speedtest.net#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%235384%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=1&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=1&sni=speedtest.net#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%232443%20%7C%20%40V2XCore%20%F0%9F%92%8E

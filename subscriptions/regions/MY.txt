@@ -1,1 +1,1 @@
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@38.60.195.223:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%234632%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://3ac6a6ca99f74941b1eaf892818e2ddb@38.60.195.223:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%234772%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

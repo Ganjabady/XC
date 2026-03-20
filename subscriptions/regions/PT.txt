@@ -1,1 +1,2 @@
-vless://f651b25b-0a6a-4954-910f-7c07a1f6f664@31.129.22.64:47910?encryption=none&fp=chrome&pbk=UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ&security=reality&sid=d194cf18101d98de&sni=yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%233918%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://f651b25b-0a6a-4954-910f-7c07a1f6f664@31.129.22.64:47910?encryption=none&fp=chrome&pbk=UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ&security=reality&sid=d194cf18101d98de&sni=yandex.ru&type=tcp#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%233800%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.231.233.112:989#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%235435%20%7C%20%40V2XCore%20%F0%9F%94%B0

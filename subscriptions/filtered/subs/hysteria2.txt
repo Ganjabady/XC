@@ -1,1 +1,1 @@
-hysteria2://1ae9f3fa-46a3-4ccf-ac29-990ec9673022@svt1.fq.ito8.com:8080?sni=svt1.fq.ito8.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2332889%20%7C%20%40V2XCore%20%F0%9F%9A%80
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%234258%20%7C%20t.me/V2XCore%20%F0%9F%91%91

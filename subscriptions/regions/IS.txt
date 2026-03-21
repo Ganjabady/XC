@@ -1,2 +1,1 @@
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%234268%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%234328%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://qmBSKnAl6LYi9=z23Rs.Z@37.235.49.209:28099?sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%233968%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

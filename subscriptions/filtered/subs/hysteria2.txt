@@ -1,2 +1,2 @@
-hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%234859%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%234921%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%234717%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%234857%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

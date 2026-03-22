@@ -1,3 +1,2 @@
-vless://3ac6a6ca99f74941b1eaf892818e2ddb@58.251.139.169:6379?type=tcp&security=reality&sni=&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%235828%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://3ac6a6ca99f74941b1eaf892818e2ddb@58.251.139.168:6379?type=tcp&security=reality&sni=&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%235835%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%236459%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://3ac6a6ca99f74941b1eaf892818e2ddb@58.251.139.168:6379?type=tcp&security=reality&sni=&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%235433%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://3ac6a6ca99f74941b1eaf892818e2ddb@58.251.139.169:6379?type=tcp&security=reality&sni=&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%235451%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

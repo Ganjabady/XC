@@ -1,3 +1,1 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%234462%20%7C%20%40V2XCore%20%F0%9F%91%91
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%234519%20%7C%20%40V2XCore%20%F0%9F%91%91
-vmess://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%235012%20%7C%20%40V2XCore%20%F0%9F%91%91
+vmess://e070e567-7996-45a9-9016-0143420946ef@d2fog4flcfgb8c.cloudfront.net:443?encryption=auto&path=%2F8536cb1926c24bbc99d7bd93350ec564&security=tls&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%234019%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

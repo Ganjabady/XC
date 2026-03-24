@@ -1,4 +1,4 @@
-vmess://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%234389%20%7C%20%40V2XCore%20%E2%9C%A8
-vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%234611%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%234624%20%7C%20%40V2XCore%20%F0%9F%91%91
-vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?encryption=auto&path=%2Fvmess%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%235276%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.92.70.236:22324?encryption=auto&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B9%20IT%20%234679%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vmess://4c95d617-efd8-4045-98d5-4d00e96667f9@164.92.245.167:2096?encryption=auto&path=%2F&security=none&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%234790%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vmess://ef984d19-4df7-4592-8ca8-a3f658b78c0a@85.17.192.110:16623?encryption=auto&headerType=http&security=none&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%235339%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vmess://703f722a-4bdf-4e9d-9afd-a681fdf87c74@pq-hungary1.09vpn.com:80?encryption=auto&path=%2Fvmess%2F&security=none&type=ws#%F0%9F%87%A8%F0%9F%87%BE%20CY%20%235756%20%7C%20%40V2XCore%20%F0%9F%94%A5

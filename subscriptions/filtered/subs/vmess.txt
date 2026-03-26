@@ -1,1 +1,1 @@
-vmess://ac4c12c5-45f2-4398-a718-9983941ede2b@45.89.52.207:39651?encryption=auto&security=none&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%235866%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vmess://34faa20a-7597-444c-81a3-a92042e3cd95@57.129.130.23:443?encryption=auto&headerType=http&host=57.129.130.23&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%234590%20%7C%20t.me/V2XCore%20%F0%9F%91%91

@@ -1,1 +1,1 @@
-vless://029cf202-020c-42a5-8186-1a831c8322c5@62.72.166.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%AF%F0%9F%87%B4%20JO%20%230794%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://029cf202-020c-42a5-8186-1a831c8322c5@62.72.166.24:80?encryption=none&security=none&type=ws&host=rain.leemurda187.xyz&path=%2Fvless%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#%F0%9F%87%AF%F0%9F%87%B4%20JO%20%231450%20%7C%20%40V2XCore%20%F0%9F%92%8E

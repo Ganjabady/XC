@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%236482%20%7C%20t.me/V2XCore%20%E2%9C%A8
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.147.216.196:8443?type=ws&security=tls&sni=&host=snippet.danfeng.casacam.net&path=%2Fdanfeng#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%236511%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@83.147.216.196:8443?type=ws&security=tls&sni=&host=snippet.danfeng.casacam.net&path=%2Fdanfeng#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%236414%20%7C%20%40V2XCore%20%F0%9F%92%8E
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.71.166.100:989#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%236613%20%7C%20t.me/V2XCore%20%E2%9C%A8

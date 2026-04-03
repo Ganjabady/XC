@@ -1,2 +1,1 @@
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%236411%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%236412%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://q2jXRWncMA7pQren_VjQKhSQfoBWK_@149.33.19.105:2083?allowInsecure=1&host=xo.e0f.cx&path=%2Ftrojan-ws&sni=xo.e0f.cx&type=ws#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%236469%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

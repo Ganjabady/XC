@@ -1,2 +1,1 @@
-hysteria2://123456789StrongPass@144.31.224.14:443?insecure=1&sni=www.cloudflare.com#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%234937%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-hysteria2://SNItest@37.18.14.169:443?insecure=1&sni=megafon.ru#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%235204%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%236724%20%7C%20%40V2XCore%20%F0%9F%91%91

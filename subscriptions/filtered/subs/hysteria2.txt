@@ -1,1 +1,1 @@
-hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%237209%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%236768%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

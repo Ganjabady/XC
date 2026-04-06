@@ -1,1 +1,1 @@
-vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%235126%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vmess://04621bae-ab36-11ec-b909-0242ac120002@66.163.117.58:22324?encryption=auto&security=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20GB%20%235295%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

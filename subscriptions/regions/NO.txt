@@ -1,2 +1,2 @@
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%236756%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&security=reality&sid=9edc548e1e284d84&sni=google.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%237406%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://2c564cf2-2291-4c8a-ad02-d8db601c41f9@5.180.47.159:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo&security=reality&sid=9edc548e1e284d84&sni=google.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%236545%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%236754%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

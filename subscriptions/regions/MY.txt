@@ -1,2 +1,1 @@
-trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:13388?security=tls&sni=www.baidu.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238400%20%7C%20%40V2XCore%20%F0%9F%91%91
-trojan://413fdb10-a596-4e7c-b081-54243d252894@85.211.192.237:5784?security=tls&sni=www.baidu.com&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238401%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://47841e5f-46cf-4ca9-ac99-31a5400020b6@96.126.190.196:443?encryption=none&security=tls&sni=fm3.pages.dev&fp=random&insecure=0&allowInsecure=0&type=ws&host=fm3.pages.dev&path=%2F%3Fed%3D2560#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%238034%20%7C%20%40V2XCore%20%F0%9F%9A%80

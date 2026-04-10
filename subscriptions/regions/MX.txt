@@ -1,1 +1,1 @@
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?type=ws&security=tls&sni=&host=&path=%2Fvless%2F#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235277%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@45.134.9.133:8443?type=ws&security=tls&sni=&host=&path=%2Fvless%2F#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235248%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

@@ -1,2 +1,2 @@
-hysteria2://0d892bc7-41c5-4dc5-90bb-40dfc0043dd5@51.195.241.243:443?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%237037%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%2310538%20%7C%20%40V2XCore%20%F0%9F%92%8E
+hysteria2://0d892bc7-41c5-4dc5-90bb-40dfc0043dd5@51.195.241.243:443?insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%237038%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+hysteria2://rstnnl@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%2310738%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

@@ -1,1 +1,1 @@
-vless://913c6074-a747-492b-a7e9-5abfcad6369d@fi.milas.click:443?type=tcp&security=reality&sni=&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&sid=4fa44664f6a566d3#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%239941%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://913c6074-a747-492b-a7e9-5abfcad6369d@fi.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=fi.milas.click&type=tcp#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2310672%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,1 +1,1 @@
-vless://913c6074-a747-492b-a7e9-5abfcad6369d@fi.milas.click:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=DoZSKLwNQjogQMlE7oEEuB8TqpNa-umXzG-2Q6dTTEY&security=reality&sid=4fa44664f6a566d3&sni=fi.milas.click&type=tcp#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2311633%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://00000000-0000-4000-8000-000000000000@91.186.217.158:441?type=ws&security=tls&sni=&host=v-twb3pri554n5bp5vfep.mikuru.ip-ddns.com&path=%2F%2540Marisa_kristi#%F0%9F%87%AC%F0%9F%87%B7%20GR%20%2311207%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

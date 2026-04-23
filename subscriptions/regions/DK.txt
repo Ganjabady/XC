@@ -1,1 +1,1 @@
-vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443?encryption=none&security=tls&sni=mopd.global.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=mopd.global.ssl.fastly.net&path=/&mode=auto#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%238069%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=0&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=0&sni=speedtest.net#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2314121%20%7C%20%40V2XCore%20%E2%9C%A8

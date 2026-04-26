@@ -1,3 +1,4 @@
-vless://88888888-8888-8888-8888-888888888888@38.60.195.223:443?type=tcp&security=reality&sni=&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2313052%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://26524cce-d514-4014-a426-365fb266a14d@20.17.97.232:443?type=ws&security=tls&sni=&host=pchlzn.cdn-a.gfw.hidns.co&path=%2Fdanfeng#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2313059%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://26524cce-d514-4014-a426-365fb266a14d@47.250.212.59:443?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2313325%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://26524cce-d514-4014-a426-365fb266a14d@20.17.97.232:443?type=ws&security=tls&sni=&host=pchlzn.cdn-a.gfw.hidns.co&path=%2Fdanfeng#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2313855%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://26524cce-d514-4014-a426-365fb266a14d@47.250.212.59:443?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2313877%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://88888888-8888-8888-8888-888888888888@38.60.195.223:443?type=tcp&security=reality&sni=&pbk=QbZBeFzqbP3XfrldMaIkdu-tr91zqBUIQ-WIkXM2p14&sid=96e03e0f184639ef#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2313881%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzc3NTEzZS05ZGY1LTRkYzMtYmM4NC03NGU1NjQzNDVhODE=@usgpt.slianrk.com:13012#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%2314892%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,1 +1,1 @@
-vless://ccc4d100-07ec-4dbd-a054-50216788e15e@ru1.clgate.network:2041?type=grpc&security=reality&sni=&pbk=qAzDiElJXS4orwLfz63SFhCJ-EB1AGXMoL3mSc0mNV0&sid=#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2313241%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://ccc4d100-07ec-4dbd-a054-50216788e15e@ru1.clgate.network:2041?type=grpc&security=reality&sni=&pbk=qAzDiElJXS4orwLfz63SFhCJ-EB1AGXMoL3mSc0mNV0&sid=#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2314226%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

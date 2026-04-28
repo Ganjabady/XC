@@ -1,2 +1,2 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2312258%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2312864%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2311522%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2315160%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

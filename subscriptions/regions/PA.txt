@@ -1,1 +1,1 @@
-vless://50e4c335-c59d-49d4-a580-10f8e5b740b4@vaganzavpn.top:17917?type=tcp&security=reality&sni=&pbk=AJNM3xXr0XI_VejKBe9iX5NbcSyDk-MaebTY31TkhwM&sid=873f01#%F0%9F%87%B5%F0%9F%87%A6%20PA%20%2314559%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://50e4c335-c59d-49d4-a580-10f8e5b740b4@vaganzavpn.top:17917?type=tcp&security=reality&sni=&pbk=AJNM3xXr0XI_VejKBe9iX5NbcSyDk-MaebTY31TkhwM&sid=873f01#%F0%9F%87%B5%F0%9F%87%A6%20PA%20%2313978%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

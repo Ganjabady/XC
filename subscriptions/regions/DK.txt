@@ -1,1 +1,2 @@
-vless://TMG_b2c82aeaf61@81.17.159.63:443?type=xhttp&security=reality&sni=&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2312008%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://TMG_b2c82aeaf61@81.17.159.63:443?type=xhttp&security=reality&sni=&pbk=XDBvi6U6TnvlyuCdsIUtQ_yjrjyTEvr0KLHvuo-pF0Q&sid=cf53a10184e17998#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2311842%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://647ae650-8374-42c8-80a2-3c04c529f6c2@ss.mrrnasr.ir:443?mode=auto&security=tls&encryption=none&insecure=0&host=mopd.global.ssl.fastly.net.&type=xhttp&allowInsecure=0&sni=speedtest.net#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2315383%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

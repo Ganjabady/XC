@@ -1,1 +1,1 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@178.253.32.49:1103?type=ws&security=tls&sni=&host=snippet.fgfw.loc.cc&path=%2Fdanfeng#%F0%9F%87%B2%F0%9F%87%B4%20MO%20%2314062%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://26524cce-d514-4014-a426-365fb266a14d@178.253.32.49:1103?type=ws&security=tls&sni=&host=snippet.fgfw.loc.cc&path=%2Fdanfeng#%F0%9F%87%B2%F0%9F%87%B4%20MO%20%2313124%20%7C%20%40V2XCore%20%F0%9F%94%B0

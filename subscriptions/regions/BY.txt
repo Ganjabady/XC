@@ -1,2 +1,2 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.66.71.149:2053?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%2312337%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://91bbe282-f2ba-46a6-8752-36ae55279169@cdn.normbot.ru:443?type=tcp&security=reality&sni=&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%2315459%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@185.66.71.149:2053?&security=tls&fp=chrome&sni=snippet.sh21.eu.org&type=ws&headerType=none&host=snippet.sh21.eu.org&path=/danfeng#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%2312645%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://91bbe282-f2ba-46a6-8752-36ae55279169@cdn.normbot.ru:443?type=tcp&security=reality&sni=&pbk=pgG2grngQEtOFJImLfz0AEm-O2IodM2jCY4aMCYQI1U&sid=b2a6e3d42f05c3d1#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%2313906%20%7C%20%40V2XCore%20%E2%9C%A8

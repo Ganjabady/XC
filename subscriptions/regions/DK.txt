@@ -1,4 +1,3 @@
-vless://51c27910-f70a-4dac-b8f1-88ac6f1cbdf5@ss.mrrnasr.ir:443?encryption=none&security=tls&sni=mopd.global.ssl.fastly.net&insecure=0&allowInsecure=0&type=xhttp&host=mopd.global.ssl.fastly.net&path=/&mode=auto#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2311776%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2315464%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.247:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2317128%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.132:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2317248%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@192.36.27.94:989#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2314380%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.247:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2314958%20%7C%20%40V2XCore%20%F0%9F%94%A5
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.37.96.132:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%2315269%20%7C%20%40V2XCore%20%E2%9C%A8

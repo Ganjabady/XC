@@ -1,1 +1,1 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@77.91.72.13:443?type=ws&security=tls&sni=&host=snippet.sh21.eu.org&path=%2Fdanfeng#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2320184%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@77.91.72.13:443?type=ws&security=tls&sni=&host=snippet.sh21.eu.org&path=%2Fdanfeng#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2316491%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

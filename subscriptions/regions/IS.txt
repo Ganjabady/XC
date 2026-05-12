@@ -1,1 +1,1 @@
-vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@212.192.214.215:443?encryption=none&security=tls&sni=2-7fc.pages.dev&type=ws&host=2-7fc.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2316213%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://ce069292-c8bf-40dd-a6b1-87818a1e64e9@212.192.214.215:443?encryption=none&security=tls&sni=2-7fc.pages.dev&type=ws&host=2-7fc.pages.dev&path=%2Fproxyip%3DProxyIP.DE.owg.dpdns.org#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2316251%20%7C%20%40V2XCore%20%F0%9F%8E%AF

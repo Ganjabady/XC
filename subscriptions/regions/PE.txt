@@ -1,1 +1,1 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@185.47.252.205:443?type=ws&security=tls&sni=&host=ltaeqp.cdn-assets.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2316705%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://26524cce-d514-4014-a426-365fb266a14d@185.47.252.205:443?type=ws&security=tls&sni=&host=ltaeqp.cdn-assets.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2316184%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

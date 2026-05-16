@@ -1,1 +1,1 @@
-hysteria2://hysteria_master_password@72.56.122.195:443?insecure=1&sni=www.bing.com#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2310824%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2314958%20%7C%20%40V2XCore%20%F0%9F%8E%AF

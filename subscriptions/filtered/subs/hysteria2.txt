@@ -1,1 +1,1 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2317048%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2315340%20%7C%20t.me/V2XCore%20%E2%9C%A8

@@ -1,2 +1,1 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@180.149.37.38:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2316171%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://43488128-319e-f480-64ea-0acdc712e2a8@5.182.38.193:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=w6Z8qD0CCeAW68-mdkJ6b-eHf1o3j_DEoXtlN7lnaCw&security=reality&sid=a7c8f0630da31f6a&sni=www.mol.hu&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2316191%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://43488128-319e-f480-64ea-0acdc712e2a8@5.182.38.193:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=w6Z8qD0CCeAW68-mdkJ6b-eHf1o3j_DEoXtlN7lnaCw&security=reality&sid=a7c8f0630da31f6a&sni=www.mol.hu&type=tcp#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2317340%20%7C%20%40V2XCore%20%F0%9F%9A%80

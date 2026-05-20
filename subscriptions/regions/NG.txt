@@ -1,1 +1,1 @@
-vless://1d5b50b2-b7a4-418d-9320-281761f08132@ng-los-1.blook.network:443?type=tcp&security=reality&sni=&pbk=bnOJ_uKtqdg94h0Jt3cGJJAnXhW-UAdWKZBfbiaT9ho&sid=3c642112#%F0%9F%87%B3%F0%9F%87%AC%20NG%20%2319628%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://1d5b50b2-b7a4-418d-9320-281761f08132@ng-los-1.blook.network:443?type=tcp&security=reality&sni=&pbk=bnOJ_uKtqdg94h0Jt3cGJJAnXhW-UAdWKZBfbiaT9ho&sid=3c642112#%F0%9F%87%B3%F0%9F%87%AC%20NG%20%2319396%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

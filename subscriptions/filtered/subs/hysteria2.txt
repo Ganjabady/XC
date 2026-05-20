@@ -1,1 +1,1 @@
-hysteria2://a0b67bcf-209e-4abc-9e77-839638d35589@207.174.28.26:51372?allow_insecure=1&allowInsecure=1&insecure=1&obfs=salamander&obfs-password=nDneuR2isso8k79O&sni=apple.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316246%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+hysteria2://a0b67bcf-209e-4abc-9e77-839638d35589@207.174.28.26:51372?allow_insecure=1&allowInsecure=1&insecure=1&obfs=salamander&obfs-password=nDneuR2isso8k79O&sni=apple.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313056%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

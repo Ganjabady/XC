@@ -1,98 +1,95 @@
-trojan://8r%3C%5B9%27l6hAO%238ZQi@156.225.72.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%230551%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%230630%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%231260%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%231450%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%F0%9F%8C%90%20Unknown%20%231738%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%231828%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%232000%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%232185%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20Unknown%20%232441%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%232472%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%232723%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%232728%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%232948%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://8r%3C%5B9%27l6hAO%238ZQi@64.181.218.67:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%232963%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%233048%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%233394%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%8C%90%20Unknown%20%233431%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%233476%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%233504%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://8r%3C%5B9%27l6hAO%238ZQi@108.162.193.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Unknown%20%234471%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.107.232.124:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%234544%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20Unknown%20%234629%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%235236%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%8C%90%20Unknown%20%235507%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.147.106:2096?type=ws&sni=Koma-YT.PAGeS.Dev&path=/tr&host=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Unknown%20%235533%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%235595%20%7C%20%40V2XCore%20%F0%9F%91%91
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%235817%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%F0%9F%8C%90%20Unknown%20%236073%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#%F0%9F%8C%90%20Unknown%20%236311%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%236320%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20Unknown%20%236340%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&host=afrcloud1.mmv.kr&insecure=0&path=%2F5.223.47.32%3D443&security=tls&sni=afrcloud1.mmv.kr&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%236493%20%7C%20%40V2XCore%20%F0%9F%9A%80
-trojan://8r%3C%5B9%27l6hAO%238ZQi@141.101.120.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Unknown%20%237109%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%237495%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%237709%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%237988%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%238152%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%238253%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%238280%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%238356%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://8r%3C%5B9%27l6hAO%238ZQi@162.251.82.253:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%238588%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%239219%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%F0%9F%8C%90%20Unknown%20%239232%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%239841%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8%20US%20%239851%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%2310558%20%7C%20%40V2XCore%20%F0%9F%9A%80
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#%F0%9F%8C%90%20Unknown%20%2310633%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%2310703%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%2310736%20%7C%20%40V2XCore%20%F0%9F%9A%80
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%2310877%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#%F0%9F%8C%90%20Unknown%20%2310968%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%2310969%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%2311173%20%7C%20%40V2XCore%20%F0%9F%91%91
-trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%2311845%20%7C%20%40V2XCore%20%F0%9F%94%A5
-trojan://8r%3C%5B9%27l6hAO%238ZQi@34.58.136.79:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312055%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-trojan://8r%3C%5B9%27l6hAO%238ZQi@172.245.246.110:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312149%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-trojan://8r%3C%5B9%27l6hAO%238ZQi@144.172.101.253:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312305%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-trojan://8r%3C%5B9%27l6hAO%238ZQi@129.158.241.2:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312324%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.181.20:2053?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312529%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://8r%3C%5B9%27l6hAO%238ZQi@129.159.47.168:2053?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312562%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://8r%3C%5B9%27l6hAO%238ZQi@184.169.181.217:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312647%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://8r%3C%5B9%27l6hAO%238ZQi@5.161.129.142:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312688%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.178.181:2087?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312697%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://8r%3C%5B9%27l6hAO%238ZQi@23.95.34.158:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312809%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.146.25.162:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312897%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://8r%3C%5B9%27l6hAO%238ZQi@159.89.91.17:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312963%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%2313084%20%7C%20%40V2XCore%20%F0%9F%9A%80
-trojan://8r%3C%5B9%27l6hAO%238ZQi@35.197.23.75:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313207%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://8r%3C%5B9%27l6hAO%238ZQi@38.132.122.241:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313242%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%8C%90%20Unknown%20%2313782%20%7C%20t.me/V2XCore%20%E2%9C%A8
-trojan://telegram-id-directvpn@13.38.175.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2314788%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://8r%3C%5B9%27l6hAO%238ZQi@185.170.154.109:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2315393%20%7C%20%40V2XCore%20%F0%9F%91%91
-trojan://8r%3C%5B9%27l6hAO%238ZQi@83.147.253.124:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2315402%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://8r%3C%5B9%27l6hAO%238ZQi@194.76.173.184:2053?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳+@WangCai2#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2315918%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://8r%3C%5B9%27l6hAO%238ZQi@103.54.18.22:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2315951%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://8r%3C%5B9%27l6hAO%238ZQi@167.179.76.8:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2316164%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%2316511%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://BxceQaOe@18.182.19.193:8359?allowInsecure=1&sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2316566%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://8r%3C%5B9%27l6hAO%238ZQi@150.230.214.172:16957?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2316596%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%2316641%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://8r%3C%5B9%27l6hAO%238ZQi@144.31.67.146:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316657%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-trojan://8r%3C%5B9%27l6hAO%238ZQi@47.76.218.163:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2317682%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-trojan://8r%3C%5B9%27l6hAO%238ZQi@2.56.91.49:2053?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2318082%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://8r%3C%5B9%27l6hAO%238ZQi@43.168.16.112:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%2318083%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://8r%3C%5B9%27l6hAO%238ZQi@152.42.169.132:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%2318344%20%7C%20%40V2XCore%20%F0%9F%9A%80
-trojan://8r%3C%5B9%27l6hAO%238ZQi@43.160.195.223:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%2318403%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://8r%3C%5B9%27l6hAO%238ZQi@140.245.59.102:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%2318449%20%7C%20%40V2XCore%20%F0%9F%92%8E
-trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?allowInsecure=1&sni=bing.com#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2318990%20%7C%20%40V2XCore%20%F0%9F%91%91
-trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?allowInsecure=1&sni=tvhinet.lajichang.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2319043%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-trojan://8r%3C%5B9%27l6hAO%238ZQi@83.229.121.78:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2319065%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2319106%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allow_insecure=0&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20Unknown%20%2319359%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2319412%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://humanity@v1.dabache.top:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%2319465%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8C%90%20Unknown%20%2319473%20%7C%20%40V2XCore%20%F0%9F%94%B0
-trojan://8r%3C%5B9%27l6hAO%238ZQi@103.125.216.22:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2319569%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%2319580%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-trojan://8r%3C%5B9%27l6hAO%238ZQi@168.138.46.67:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2319587%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://humanity@188.114.96.3:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%230101%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20Unknown%20%231381%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%231598%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%232722%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@104.18.11.110:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%232991%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%233217%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%233398%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://humanity@172.67.180.92:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%233444%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://8r%3C%5B9%27l6hAO%238ZQi@72.167.230.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%233488%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%233845%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://humanity@172.64.152.23:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%8C%90%20Unknown%20%234213%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&security=tls&alpn=http%2F1.1&insecure=1&host=sni.111000.dynv6.net&type=ws&allowInsecure=1&sni=sni.111000.dynv6.net#%F0%9F%8C%90%20Unknown%20%235295%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%235380%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%235660%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?allowInsecure=0&host=afrcloud1.mmv.kr&insecure=0&path=%2F5.223.47.32%3D443&security=tls&sni=afrcloud1.mmv.kr&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20US%20%235820%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%235988%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%236071%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&amp;security=tls&amp;fp=chrome&amp;type=ws&amp;sni=reDfRee8.REDFree8.ir#%F0%9F%8C%90%20Unknown%20%236183%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://humanity@104.20.6.134:443?sni=www.calmloud.com#%F0%9F%8C%90%20Unknown%20%236455%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://8r%3C%5B9%27l6hAO%238ZQi@50.62.89.253:443?security=tls&type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%F0%9F%87%BA%F0%9F%87%B8%20US%20%236486%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%236539%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://POORIARED@172.67.134.185:443?path=%2FeyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%F0%9F%8C%90%20Unknown%20%236563%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.12.149:8443?path=%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#%F0%9F%8C%90%20Unknown%20%236631%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%236647%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://8r%3C%5B9%27l6hAO%238ZQi@157.245.181.20:2053?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%236821%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%8C%90%20Unknown%20%236917%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@188.114.98.0:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%237058%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%237148%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&allowInsecure=1&type=ws&host=www.gossipglove.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%237176%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.64.147.106:2096?sni=Koma-YT.PAGeS.Dev#%F0%9F%8C%90%20Unknown%20%237205%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://8r%3C%5B9%27l6hAO%238ZQi@64.227.62.172:2087?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%237635%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://5027e2a4-c4d2-463a-9508-83a2c7d1ad83@216.24.57.250:443?sni=afrcloud1.mmv.kr#%F0%9F%87%BA%F0%9F%87%B8%20US%20%237690%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://humanity@104.21.40.34:443?security=tls&type=ws&sni=www.gossipglove.com&path=/assignment&host=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%237884%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%237943%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%238091%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://humanity@172.67.180.92:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%238248%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%238549%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%238559%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://humanity@www.multiplydose.com:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%238633%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%238681%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%238803%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://Aimer@167.68.4.199:2053?sni=epge.muarua.filegear-sg.me#%F0%9F%87%BA%F0%9F%87%B8%20US%20%239049%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@104.17.101.139:443?path=%2F%3Fproxyip%3Dip.111000.de5.net%253A443&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=sni.111000.dynv6.net&amp;type=ws&amp;allowInsecure=1&amp;sni=sni.111000.dynv6.net#%F0%9F%8C%90%20Unknown%20%239193%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%239294%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#%F0%9F%8C%90%20Unknown%20%239551%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%239643%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://humanity@172.64.152.23:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%239927%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%239954%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@v1.dabache.top:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%239999%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%2310507%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://8r%3C%5B9%27l6hAO%238ZQi@50.62.91.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2310555%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%2310824%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#%F0%9F%8C%90%20Unknown%20%2310918%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%8C%90%20Unknown%20%2311120%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://humanity@104.18.32.47:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment#%F0%9F%8C%90%20Unknown%20%2311940%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%8C%90%20Unknown%20%2312201%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#%F0%9F%8C%90%20Unknown%20%2312242%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.245.93.26:8443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312322%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://8r%3C%5B9%27l6hAO%238ZQi@43.169.18.179:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%2312556%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://8r%3C%5B9%27l6hAO%238ZQi@172.93.187.184:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312647%20%7C%20%40V2XCore%20%F0%9F%94%A5
+trojan://8r%3C%5B9%27l6hAO%238ZQi@148.135.119.123:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2312667%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://8r%3C%5B9%27l6hAO%238ZQi@137.220.33.177:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313150%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://8r%3C%5B9%27l6hAO%238ZQi@144.172.101.253:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313183%20%7C%20%40V2XCore%20%F0%9F%94%A5
+trojan://8r%3C%5B9%27l6hAO%238ZQi@38.248.249.62:2053?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313223%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com&type=tcp&headerType=none#%F0%9F%8C%90%20Unknown%20%2313410%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%2313556%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80#%F0%9F%87%A6%F0%9F%87%BA%20AU%20%2313589%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://8r%3C%5B9%27l6hAO%238ZQi@81.85.77.14:2083?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313591%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://8r%3C%5B9%27l6hAO%238ZQi@34.58.136.79:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313638%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://8r%3C%5B9%27l6hAO%238ZQi@64.181.218.67:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313658%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://8r%3C%5B9%27l6hAO%238ZQi@94.183.184.239:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313664%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://8r%3C%5B9%27l6hAO%238ZQi@80.209.242.70:2053?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313778%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://8r%3C%5B9%27l6hAO%238ZQi@208.167.245.42:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2313918%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2Fassignment#%F0%9F%8C%90%20Unknown%20%2313949%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://8r%3C%5B9%27l6hAO%238ZQi@142.252.220.13:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2314022%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://telegram-id-privatevpns@15.224.91.64:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2314733%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+trojan://telegram-id-directvpn@15.224.91.64:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2315131%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://telegram-id-privatevpns@15.224.91.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2315328%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://telegram-id-directvpn@13.38.175.41:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2315453%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?allowInsecure=1&sni=bing.com#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2315484%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://telegram-id-privatevpns@15.224.91.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2315541%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://8r%3C%5B9%27l6hAO%238ZQi@95.179.253.213:8443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2316036%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://8r%3C%5B9%27l6hAO%238ZQi@83.147.253.194:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316455%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://8r%3C%5B9%27l6hAO%238ZQi@83.147.253.187:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316526%20%7C%20%40V2XCore%20%F0%9F%94%A5
+trojan://8r%3C%5B9%27l6hAO%238ZQi@138.124.81.204:443?sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2316806%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://8r%3C%5B9%27l6hAO%238ZQi@194.76.173.184:2053?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2316864%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://8r%3C%5B9%27l6hAO%238ZQi@185.130.46.81:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2317423%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://8r%3C%5B9%27l6hAO%238ZQi@159.65.143.223:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2&host=Koma-YT.PAGeS.Dev#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%2317540%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://8r%3C%5B9%27l6hAO%238ZQi@213.176.92.138:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2318326%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://4732adfa16c6450bbef87264e41332db@nextstepcareer.online:443?type=tcp&security=tls&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2319156%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443?security=tls&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2319180%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://6202b230-417c-4d8e-b624-0f71afa9c75d@jp.111000.cc.cd:443?allow_insecure=0&alpn=http%2F1.1&host=sni.111000.dynv6.net&path=%2F%3Fed%3D2560%26proxyip%3Dip.111000.de5.net%3A443&security=tls&sni=sni.111000.dynv6.net&type=ws#%F0%9F%8C%90%20Unknown%20%2319201%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://T9BpZIVMNv@v1.dabache.top:8443?security=tls&type=ws&sni=sweden.vmaxpanel.com&path=/amd&host=sweden.vmaxpanel.com#%F0%9F%8C%90%20Unknown%20%2319446%20%7C%20%40V2XCore%20%F0%9F%94%B0
+trojan://8r%3C%5B9%27l6hAO%238ZQi@64.110.104.30:443?type=ws&sni=Koma-YT.PAGeS.Dev&path=/trTelegram🇨🇳 @WangCai2#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2319472%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://e5c22f63-e473-496a-beff-fdc5655008c1@tvhinet.lajichang.xyz:2096?allowInsecure=1&sni=tvhinet.lajichang.xyz#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2319493%20%7C%20t.me/V2XCore%20%F0%9F%91%91

@@ -1,2 +1,1 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@178.17.48.240:8443?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2316432%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://be0e7d89-9c35-4950-a460-d3bf5aae5f91@de.locklance.lol:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=0k2aDh6JSsLCZsO7QUYepYnS_kHAnfmXX18WQBkgxEc&security=reality&sid=b531f9a8f53b802e&sni=de.locklance.lol&type=tcp#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2317703%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://26524cce-d514-4014-a426-365fb266a14d@178.17.48.240:8443?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2316083%20%7C%20%40V2XCore%20%F0%9F%9A%80

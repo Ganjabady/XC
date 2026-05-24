@@ -1,1 +1,1 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@178.17.48.240:8443?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2315406%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://26524cce-d514-4014-a426-365fb266a14d@178.17.48.240:8443?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2316122%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

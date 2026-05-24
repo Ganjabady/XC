@@ -1,1 +1,1 @@
-hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?insecure=1&sni=nlb1.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2315409%20%7C%20%40V2XCore%20%F0%9F%92%8E
+hysteria2://fe9b17e8-41e1-4d1b-b588-93a23665724f@84.200.33.151:2056?insecure=1&sni=nlb1.mangshe.xyz#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2315259%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

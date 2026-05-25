@@ -1,1 +1,1 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@103.118.243.222:40301?sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320253%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://26524cce-d514-4014-a426-365fb266a14d@103.118.243.222:40301?sni=qznql.node-proxy.chinat.indevs.in&type=ws&host=qznql.node-proxy.chinat.indevs.in&path=/danfeng?ed=2560fp=firefox&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2318498%20%7C%20%40V2XCore%20%F0%9F%91%91

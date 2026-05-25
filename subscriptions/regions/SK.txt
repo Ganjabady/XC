@@ -1,1 +1,1 @@
-trojan://3ac6a6ca99f74941b1eaf892818e2ddb@5.180.55.152:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%234775%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://69a2af58-d74a-44ca-864a-e09b493f4274@45.66.161.10:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=ZxJt0FNyLrIrrd4c1Uehe86Iqk0BBbKjbP1kEJxOAAg&amp;security=reality&amp;sid=0f26cb0528&amp;sni=ya.ru&amp;type=tcp#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2315273%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

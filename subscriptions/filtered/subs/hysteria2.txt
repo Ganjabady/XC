@@ -1,1 +1,2 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2316900%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2316653%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+hysteria2://rstnnl2705@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2321301%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

@@ -1,2 +1,3 @@
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2316653%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-hysteria2://rstnnl2705@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2321301%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+hysteria2://rstnnl2705@nrealistic.nn-foto.ru:443?insecure=1&sni=nrealistic.nn-foto.ru&obfs=salamander&obfs-password=CvxXZnSth1bVJKGFP2cof4rI52ifHJ2W#%F0%9F%87%B3%F0%9F%87%B1%20NL%20%2321076%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+hysteria2://rstnnl2705@musicclips.videolinks.ru:443?insecure=1&sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=hH0l2Acqz3RtodoSCNCpNJqDSZtp4Qw#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2321136%20%7C%20%40V2XCore%20%E2%9C%A8
+hysteria2://rstnnl2705@reddeadfan.rd-team.ru:443?insecure=1&sni=reddeadfan.rd-team.ru&obfs=salamander&obfs-password=FxZylbqClUqVqAs2nezW9kPyFb2edZ2#%F0%9F%87%A7%F0%9F%87%AC%20BG%20%2321527%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

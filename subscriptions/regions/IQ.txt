@@ -1,1 +1,1 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@178.17.48.240:8443?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2317700%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://Z3_=ewk_+l1U4OT4usQ5=o2vFfk95yfy1V@130.94.97.11:443?allow_insecure=1&allowInsecure=1&headerType=none&insecure=1&security=tls&sni=www.selectnet.click#%F0%9F%87%AE%F0%9F%87%B6%20IQ%20%2319578%20%7C%20%40V2XCore%20%F0%9F%94%B0

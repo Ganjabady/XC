@@ -1,1 +1,1 @@
-vless://017510da-8b42-49de-8ea9-ab60e3e9072e@hu01.bearbeer.digital:443?sni=hu01.bearbeer.digital&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2319566%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://017510da-8b42-49de-8ea9-ab60e3e9072e@hu01.bearbeer.digital:443?sni=hu01.bearbeer.digital&flow=xtls-rprx-vision-udp443&fp=qq&security=tls#%F0%9F%87%AD%F0%9F%87%BA%20HU%20%2320173%20%7C%20%40V2XCore%20%E2%9C%A8

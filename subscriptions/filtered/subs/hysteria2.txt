@@ -1,1 +1,1 @@
-hysteria2://Masir_Sefid@18.198.106.153:443?insecure=0&sni=qus.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2318326%20%7C%20%40V2XCore%20%F0%9F%92%8E
+hysteria2://masir_sefid@18.194.63.255:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2318041%20%7C%20%40V2XCore%20%E2%9C%A8

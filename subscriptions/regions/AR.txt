@@ -1,2 +1,1 @@
-trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319790%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319851%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://s.wRSE4ANZp4=4h.=B_9Qbetw6XUc0V1SV@130.94.107.171:443?security=tls&sni=www.logger-guard.click#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2320065%20%7C%20t.me/V2XCore%20%F0%9F%91%91

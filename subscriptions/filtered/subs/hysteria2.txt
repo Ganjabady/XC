@@ -1,3 +1,3 @@
-hysteria2://masir_sefid@18.194.63.255:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2317885%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-hysteria2://masir_sefid@18.157.51.145:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2318088%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%2320093%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+hysteria2://masir_sefid@18.194.63.255:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2318241%20%7C%20%40V2XCore%20%F0%9F%92%8E
+hysteria2://masir_sefid@18.157.51.145:443?insecure=0&sni=content.masir-sefid.shop&obfs=salamander&obfs-password=masir_sefid#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2318901%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+hysteria2://Masir_Sefid@84.234.29.71:443?insecure=0&sni=free2.masir-sefid.shop&obfs=salamander&obfs-password=Masir_Sefid#%F0%9F%87%A8%F0%9F%87%AD%20CH%20%2319233%20%7C%20%40V2XCore%20%F0%9F%94%A5

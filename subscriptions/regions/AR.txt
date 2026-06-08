@@ -1,4 +1,4 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319970%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319997%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2319999%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2320006%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2320078%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision-udp443&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2320081%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2320083%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2320087%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

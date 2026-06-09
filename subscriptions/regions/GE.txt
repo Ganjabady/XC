@@ -1,1 +1,2 @@
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@77.91.72.13:443?type=ws&security=tls&sni=&host=snippet.sh21.eu.org&path=%2Fdanfeng#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2319363%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@206.53.48.65:443?host=linek.perry.us.kg&path=%2Farchives%2Fproducts%2Fseller&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2321942%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@206.53.48.65:443?fp=chrome&host=linek.perry.us.kg&path=%2Farchives%2Fproducts%2Fseller&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2322001%20%7C%20%40V2XCore%20%F0%9F%92%8E

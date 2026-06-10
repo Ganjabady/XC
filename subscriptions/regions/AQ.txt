@@ -1,1 +1,1 @@
-vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B6%20AQ%20%2320350%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://9c04338e-99e4-4d7a-b829-bcbd94bd68c0@2.27.26.140:443?sni=aq.cdn-global.pro&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B6%20AQ%20%2320037%20%7C%20%40V2XCore%20%F0%9F%94%B0

@@ -1,1 +1,2 @@
-vless://f9a0061a-0585-43ab-9cce-12099b48be53@93.123.113.36:443?type=tcp&security=reality&sni=&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2320617%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://f9a0061a-0585-43ab-9cce-12099b48be53@93.123.113.36:443?type=tcp&security=reality&sni=&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&sid=ea1058117be12087#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2320903%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://2c78c246-5556-47bf-9a22-0ed5d6237389@nl.plus-hit.ru:443?type=tcp&security=reality&sni=&pbk=N4UtYAhibzkb0n_U2Qmqze5-lZMQqDozqg7OCqvufGA&sid=ac7f3b2d5e01948b#%F0%9F%87%A6%F0%9F%87%B1%20AL%20%2322331%20%7C%20t.me/V2XCore%20%E2%9C%A8

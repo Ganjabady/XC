@@ -1,1 +1,1 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2322888%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2323706%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

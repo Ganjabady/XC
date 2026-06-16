@@ -1,1 +1,1 @@
-vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@irc.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#%F0%9F%87%BB%F0%9F%87%AC%20VG%20%2324173%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@irc.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#%F0%9F%87%BB%F0%9F%87%AC%20VG%20%2319427%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

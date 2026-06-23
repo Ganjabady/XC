@@ -1,2 +1,2 @@
-ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@om.mastermarly.ir:8080?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%B4%F0%9F%87%B2%20OM%20%2329624%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@om.mastermarly.ir:8080?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%B4%F0%9F%87%B2%20OM%20%2329681%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+ss://a4548d7f-8e0f-4780-9f5a-30cbd2754550@om.mastermarly.ir:8080?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%B4%F0%9F%87%B2%20OM%20%2329772%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://a4548d7f-8e0f-4780-9f5a-30cbd2754550@om.mastermarly.ir:8080?security=&amp;encryption=none&amp;host=play.google.com&amp;headerType=http&amp;type=tcp#%F0%9F%87%B4%F0%9F%87%B2%20OM%20%2329832%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

@@ -1,2 +1,2 @@
-vless://8584983e-e4ac-4fd9-96b9-7f4db8dc5790@38.180.182.149:443?type=tcp&security=reality&sni=&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&sid=1a2b3c4d5e6f7080#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2321686%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://8584983e-e4ac-4fd9-96b9-7f4db8dc5790@38.180.182.149:48932?type=xhttp&security=reality&sni=&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&sid=#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2321693%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://8584983e-e4ac-4fd9-96b9-7f4db8dc5790@38.180.182.149:48932?type=xhttp&security=reality&sni=&pbk=Dl4-nKAkksLHmX2yR0LWAzyFBjIj1W10R4OxHKMX2AI&sid=#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2320798%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://8584983e-e4ac-4fd9-96b9-7f4db8dc5790@38.180.182.149:443?type=tcp&security=reality&sni=&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&sid=1a2b3c4d5e6f7080#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%2320802%20%7C%20%40V2XCore%20%F0%9F%91%91

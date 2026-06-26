@@ -1,2 +1,2 @@
-vless://73bb419b-743f-4502-bfb5-08211272a325@mtn.nexuschat.fun:80?&security=tls&sni=your.nexuschat.fun&type=ws&headerType=none&host=your.nexuschat.fun&path=%2Fnexus#%F0%9F%87%BB%F0%9F%87%AC%20VG%20%2320242%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@irc.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#%F0%9F%87%BB%F0%9F%87%AC%20VG%20%2321121%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://0ab87f85-b6ea-4bd2-b039-7acf5d893d48@irc.nexuslearn.site:80?path=/nexus&security=none&encryption=none&host=x1.nexuslearn.site&type=ws#%F0%9F%87%BB%F0%9F%87%AC%20VG%20%2321822%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://73bb419b-743f-4502-bfb5-08211272a325@mtn.nexuschat.fun:80?&security=tls&sni=your.nexuschat.fun&type=ws&headerType=none&host=your.nexuschat.fun&path=%2Fnexus#%F0%9F%87%BB%F0%9F%87%AC%20VG%20%2322040%20%7C%20%40V2XCore%20%F0%9F%94%A5

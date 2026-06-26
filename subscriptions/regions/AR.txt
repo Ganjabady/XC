@@ -1,2 +1,2 @@
-vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2326870%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://8584983e-e4ac-4fd9-96b9-7f4db8dc5790@38.180.185.222:443?type=tcp&security=reality&sni=&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&sid=#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2327155%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://8584983e-e4ac-4fd9-96b9-7f4db8dc5790@38.180.185.222:443?type=tcp&security=reality&sni=&pbk=roCvVZ0atQ-_68OSDPuknzHchm6djGzQB4Ydl5n31Fg&sid=#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2326580%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://afcac633-0e1a-46c3-bef2-cc01cc0097c8@38.54.45.184:443?flow=xtls-rprx-vision&fp=edge&security=tls&sni=r1.mizulina.top#%F0%9F%87%A6%F0%9F%87%B7%20AR%20%2326765%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

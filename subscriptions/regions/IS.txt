@@ -1,2 +1,2 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@151.236.24.54:443?fp=chrome&host=linek.perry.us.kg&path=/files/ad/collect&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2324581%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.147.111.223:2053?host=linek.perry.us.kg&path=/pictures&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2325232%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@151.236.24.54:443?fp=chrome&host=linek.perry.us.kg&path=/files/ad/collect&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2323920%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@89.147.111.223:2053?host=linek.perry.us.kg&path=/pictures&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2325586%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

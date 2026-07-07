@@ -1,1 +1,1 @@
-vless://33c23181-92e3-4f7c-8c66-f62d1ea6c55b@185.28.172.123:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2326769%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://33c23181-92e3-4f7c-8c66-f62d1ea6c55b@185.28.172.123:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2332072%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

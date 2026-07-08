@@ -1,1 +1,1 @@
-vless://497631c4-a1a4-0083-a86a-f42873473bb6@196.245.152.34:8443?flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=tls&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2326656%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://497631c4-a1a4-0083-a86a-f42873473bb6@196.245.152.34:8443?flow=xtls-rprx-vision&fp=chrome&pbk=10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc&security=tls&sid=43dcff53849b81e6&sni=auto.quattro-tech.ru#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%2327951%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

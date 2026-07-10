@@ -1,1 +1,1 @@
-trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2330683%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://3632736327@flb06181447.tmdsb.org:2398?security=tls&sni=flb06181447.tmdsb.org#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2329458%20%7C%20%40V2XCore%20%F0%9F%92%8E

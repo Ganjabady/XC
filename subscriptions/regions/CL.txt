@@ -1,3 +1,3 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327473%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327530%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@64.176.15.110:2053?fp=chrome&host=linek.perry.us.kg&path=/store/favorite/ads&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327537%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2326684%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327014%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@64.176.15.110:2053?fp=chrome&host=linek.perry.us.kg&path=/store/favorite/ads&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2328458%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

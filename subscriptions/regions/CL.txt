@@ -1,4 +1,4 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2328061%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@64.176.15.110:2053?fp=chrome&host=linek.perry.us.kg&path=/store/favorite/ads&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2328697%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2328720%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.220.11:80?host=Fastapi.Org&path=%2F&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2329147%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@64.176.15.110:2053?fp=chrome&host=linek.perry.us.kg&path=/store/favorite/ads&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327130%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://26524cce-d514-4014-a426-365fb266a14d@64.176.15.110:2053?type=ws&security=tls&sni=&host=s3vz.user-service.chinav.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327160%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.220.11:80?host=Fastapi.Org&path=%2F&type=ws#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327236%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://948fac3c-42bf-41a6-a5f9-704d36ff0d8d@186.67.70.55:443?type=ws&security=tls&sni=&host=snippet.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%A8%F0%9F%87%B1%20CL%20%2327265%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

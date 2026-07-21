@@ -1,1 +1,2 @@
-vless://82162b75-5d5b-f8ec-896a-813170210c26@122.8.44.4:993?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2332158%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://82162b75-5d5b-f8ec-896a-813170210c26@122.8.44.4:993?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2332411%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2335578%20%7C%20t.me/V2XCore%20%F0%9F%91%91

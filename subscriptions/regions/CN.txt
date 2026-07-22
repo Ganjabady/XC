@@ -1,4 +1,2 @@
-vless://82162b75-5d5b-f8ec-896a-813170210c26@122.8.44.4:993?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2333069%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2335179%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2335330%20%7C%20%40V2XCore%20%E2%9C%A8
-trojan://9NUhCKPOii@ms.fzhai.cc:2003?security=tls&sni=ms.fzhai.cc#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2336780%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://82162b75-5d5b-f8ec-896a-813170210c26@122.8.44.4:993?security=reality&encryption=none&pbk=_KiM4lu8Em0mJFmY8t2XRYGL-H2jbCtfKaFB0Io6JCE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.steamstatic.com#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2333526%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2335023%20%7C%20%40V2XCore%20%F0%9F%92%8E

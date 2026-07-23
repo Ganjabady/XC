@@ -1,1 +1,1 @@
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?&type=ws&headerType=none&host=Fastapi.Org&path=%2F#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2333918%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?&type=ws&headerType=none&host=Fastapi.Org&path=%2F#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2332993%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

@@ -1,2 +1,2 @@
-vless://26524cce-d514-4014-a426-365fb266a14d@185.47.252.205:443?type=ws&security=tls&sni=&host=ltaeqp.cdn-assets.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2332264%20%7C%20t.me/V2XCore%20%E2%9C%A8
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.228.11:80?host=Fastapi.Org&path=%2F&type=ws#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2332392%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@151.101.228.11:80?host=Fastapi.Org&path=%2F&type=ws#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2329555%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://26524cce-d514-4014-a426-365fb266a14d@185.47.252.205:443?type=ws&security=tls&sni=&host=ltaeqp.cdn-assets.fgfw.indevs.in&path=%2Fdanfeng#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2331527%20%7C%20%40V2XCore%20%F0%9F%94%A5

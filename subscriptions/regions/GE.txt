@@ -1,1 +1,1 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.197:443?sni=kotiki-katakbasio-rossiiiii.ru&type=grpc&serviceName=nexusGrpc&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2331898%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.197:443?sni=kotiki-katakbasio-rossiiiii.ru&type=grpc&serviceName=nexusGrpc&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2332740%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

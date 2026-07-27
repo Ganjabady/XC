@@ -1,1 +1,1 @@
-hhysteria2://EsimHy2Game_7xK9mPq2@31.22.91.243:443?security=tls&obfs=salamander&obfs-password=EsimObfs_9mK2x7&insecure=0&sni=se.esimpson.org#%F0%9F%87%B8%F0%9F%87%AA%20SE%20%2323545%20%7C%20%40V2XCore%20%F0%9F%91%91
+hhysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52000?security=tls&obfs=salamander&obfs-password=gu74jg3ym0e21zco&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2337442%20%7C%20t.me/V2XCore%20%E2%9C%A8

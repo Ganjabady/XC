@@ -1,1 +1,1 @@
-vless://36af4874-d6a3-4f7c-82a7-1cb724961b52@46.183.185.142:443?fp=chrome&host=linek.perry.us.kg&path=%2Fpage&security=tls&sni=linek.perry.us.kg&type=ws#%F0%9F%87%B2%F0%9F%87%B0%20MK%20%2327376%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://6612d0be-ebcb-424b-a947-6bd7b06bb4c1@MKTCP.PASARGUARDMS.IR:5050?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B2%F0%9F%87%B0%20MK%20%2337708%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

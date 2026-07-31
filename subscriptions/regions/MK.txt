@@ -1,1 +1,1 @@
-vless://6612d0be-ebcb-424b-a947-6bd7b06bb4c1@MKTCP.PASARGUARDMS.IR:5050?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B2%F0%9F%87%B0%20MK%20%2338532%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://6612d0be-ebcb-424b-a947-6bd7b06bb4c1@MKTCP.PASARGUARDMS.IR:5050?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%B2%F0%9F%87%B0%20MK%20%2338356%20%7C%20%40V2XCore%20%E2%9C%A8

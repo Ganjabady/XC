@@ -1,1 +1,1 @@
-vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@195.144.24.84:443?allowInsecure=1&sni=cdn-mk.ai-apiroute.cc&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%B0%20MK%20%2337241%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://b6f3b292-00c9-430e-bc4c-b1294bd895c0@195.144.24.84:443?allowInsecure=1&sni=cdn-mk.ai-apiroute.cc&flow=xtls-rprx-vision-udp443&fp=firefox&security=tls#%F0%9F%87%B2%F0%9F%87%B0%20MK%20%2336975%20%7C%20t.me/V2XCore%20%E2%9C%A8

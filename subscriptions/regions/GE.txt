@@ -1,2 +1,2 @@
-vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.197:443?sni=kotiki-katakbasio-rossiiiii.ru&type=grpc&serviceName=nexusGrpc&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2334411%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://9c8ca673-4b85-48d5-bf31-82cada149c79@217.11.164.92:60206?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2336900%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://8f0560ec-ba22-4431-a6a7-318dc59d5233@2.27.26.197:443?sni=kotiki-katakbasio-rossiiiii.ru&type=grpc&serviceName=nexusGrpc&fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2335306%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://9c8ca673-4b85-48d5-bf31-82cada149c79@217.11.164.92:60206?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%AA%20GE%20%2337287%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

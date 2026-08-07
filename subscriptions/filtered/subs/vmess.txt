@@ -1,1 +1,1 @@
-vmess://45b83519-9c4f-4052-a11b-02e017b636d4@47.244.120.197:36703?ed=2048&amp;eh=Sec-WebSocket-Protocol&amp;encryption=auto&amp;path=%2Farki&amp;security=none&amp;type=ws#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2325386%20%7C%20%40V2XCore%20%F0%9F%91%91
+vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&amp;security=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%232509%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

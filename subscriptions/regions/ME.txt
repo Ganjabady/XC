@@ -1,2 +1,1 @@
-vless://mahanvpn-mahanvpn@92.42.96.240:443?&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&type=ws&headerType=none&host=mAhaNrEaliteAm.MaHkHan.iR&path=%2F%3Fed%3D2560fp%3Dchrome#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2334637%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://f54c3ae8-d80f-46ff-b967-cd6d4a2b93e1@92.42.96.240:443?host=hhgy.hh0mg.kdns.fr&path=%2F&security=tls&sni=hhgy.hh0mg.kdns.fr&type=ws#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2334744%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://mahanvpn-mahanvpn@92.42.96.240:443?encryption=none&security=tls&sni=mAhaNrEaliteAm.MaHkHan.iR&insecure=0&allowInsecure=0&type=ws&host=mAhaNrEaliteAm.MaHkHan.iR&path=%2F#%F0%9F%87%B2%F0%9F%87%AA%20ME%20%2336236%20%7C%20%40V2XCore%20%E2%9C%A8

@@ -1,1 +1,1 @@
-hhysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52074?security=tls&obfs=salamander&obfs-password=78mszx8jbd3mfivf&insecure=0&sni=assets.gateway-stream.com#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2339632%20%7C%20%40V2XCore%20%F0%9F%91%91
+hhysteria2://2b5f7fc3d38f4798a0f62d4ef8876528@pl6.lckdwn.ru:443?sni=pl6.lckdwn.ru&obfs=salamander&obfs-password=1yvnm8sv41&security=tls&fp=chrome&fm={#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%2341075%20%7C%20%40V2XCore%20%F0%9F%94%B0

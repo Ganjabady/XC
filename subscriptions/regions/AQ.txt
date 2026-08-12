@@ -1,1 +1,1 @@
-vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&security=reality&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro#%F0%9F%87%A6%F0%9F%87%B6%20AQ%20%2336709%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://02e2d68f-9982-4467-ad47-00cbeeae30e6@2.27.26.140:443?flow=xtls-rprx-vision&fp=firefox&pbk=HKkU-5UanGjWdmX8E-EGulXMk1BnidkFsVveyyOlTg8&security=reality&sid=90f9d05bf95cb335&sni=aq.cdn-global.pro#%F0%9F%87%A6%F0%9F%87%B6%20AQ%20%2337759%20%7C%20%40V2XCore%20%F0%9F%9A%80

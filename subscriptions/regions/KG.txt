@@ -1,1 +1,1 @@
-vless://33c23181-92e3-4f7c-8c66-f62d1ea6c55b@185.28.172.123:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2325984%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@81.85.75.85:443?&security=reality&flow=xtls-rprx-vision&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4&fp=firefox&sni=baltic.cendora.ru&type=tcp&headerType=none&host=baltic.cendora.ru&path=%2F#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2339928%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

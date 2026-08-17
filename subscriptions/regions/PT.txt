@@ -1,2 +1,1 @@
-vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2337863%20%7C%20t.me/V2XCore%20%E2%9C%A8
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?&security=tls&sni=Fastapi.Org&type=ws&headerType=none&host=Fastapi.Org&path=%2F#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2339086%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://060a5db6-7ff9-4a64-87c1-8a27be4f11ab@93.119.168.215:60771?type=tcp&headerType=none&path=%2F#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%231427%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

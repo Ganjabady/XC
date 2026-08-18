@@ -1,1 +1,1 @@
-vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@89.28.236.192:8443?sni=kjgdksgghre466.pages.dev&type=ws&host=kjgdksgghre466.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%234490%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://6705ddbd-04cf-40f6-99b9-36846b08c2a9@89.28.236.192:8443?sni=kjgdksgghre466.pages.dev&type=ws&host=kjgdksgghre466.pages.dev&path=/fp=chrome&security=tls#%F0%9F%87%A9%F0%9F%87%B0%20DK%20%234387%20%7C%20%40V2XCore%20%E2%9C%A8

@@ -1,1 +1,1 @@
-vless://c08c499f-21bd-46ba-9146-5c770204342b@wf1y-1o2rzho.rixora.top:443?sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%235690%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://c08c499f-21bd-46ba-9146-5c770204342b@wf1y-1o2rzho.rixora.top:443?sni=www.apple.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#%F0%9F%87%BB%F0%9F%87%B3%20VN%20%235637%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

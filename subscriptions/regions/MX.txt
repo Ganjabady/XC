@@ -1,2 +1,2 @@
-vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80?security=none&type=ws&sni=fraud.chase&path=/?ed=2048&encryption=none&headerType=none#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%234905%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://e7eb1e4c-0094-4212-a469-b0c02837e200@www.rfhospital.org:80?path=t.me%2FTEAMNETGRATISCOL&security=none&encryption=none&host=Matt90.pro&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235301%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@www.paypal.com.cn:80?security=none&type=ws&sni=fraud.chase&path=/?ed=2048&encryption=none&headerType=none#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235522%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://e7eb1e4c-0094-4212-a469-b0c02837e200@www.rfhospital.org:80?path=t.me%2FTEAMNETGRATISCOL&security=none&encryption=none&host=Matt90.pro&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235807%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

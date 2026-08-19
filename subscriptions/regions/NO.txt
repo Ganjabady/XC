@@ -1,1 +1,1 @@
-vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&sid=68da&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&encryption=none#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%234482%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://8384341b-cd89-4a21-a022-cc4bd4e648ca@46.29.238.139:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&sid=68da&pbk=7i4Y7v80NVAIi_4_9roDkqcXmexIHli87dfZuFaQMUI&encryption=none#%F0%9F%87%B3%F0%9F%87%B4%20NO%20%234288%20%7C%20t.me/V2XCore%20%E2%9C%A8

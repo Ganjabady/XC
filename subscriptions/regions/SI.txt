@@ -1,2 +1,2 @@
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?security=none&type=ws&path=/&host=vms.lifetime19.workers.dev&packetEncoding=none#%F0%9F%87%B8%F0%9F%87%AE%20SI%20%230772%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AE%20SI%20%231820%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?security=none&type=ws&path=/&host=vms.lifetime18.workers.dev&packetEncoding=xudp#%F0%9F%87%B8%F0%9F%87%AE%20SI%20%231305%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?security=none&type=ws&path=/&host=vms.lifetime19.workers.dev&packetEncoding=none#%F0%9F%87%B8%F0%9F%87%AE%20SI%20%232751%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

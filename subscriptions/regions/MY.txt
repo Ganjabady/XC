@@ -1,1 +1,1 @@
-vless://df816a3d-8e27-461f-955d-2e523d3c73f7@my2.miyazono-kaori.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=R6q8qhMxgq3ynJPUgudaRkcDXj0qgoc_UU1N0SWGLwM&security=reality&sid=ed77ac35a310&sni=www.setel.com#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%236628%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-my.251313.xyz:443?security=tls&sni=www.cloudflare.com#%F0%9F%87%B2%F0%9F%87%BE%20MY%20%237227%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF

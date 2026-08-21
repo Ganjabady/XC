@@ -1,1 +1,1 @@
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@188.240.213.45:20041?security=tls&sni=www.cloudflare.com#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%236805%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@188.240.213.45:20041?security=tls&sni=www.cloudflare.com#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%237115%20%7C%20%40V2XCore%20%F0%9F%92%8E

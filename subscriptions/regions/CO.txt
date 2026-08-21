@@ -1,1 +1,1 @@
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-co.251313.xyz:443?security=tls&sni=www.cloudflare.com#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%235395%20%7C%20t.me/V2XCore%20%E2%9C%A8
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-co.251313.xyz:443?security=tls&sni=www.cloudflare.com#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%234929%20%7C%20t.me/V2XCore%20%E2%9C%A8

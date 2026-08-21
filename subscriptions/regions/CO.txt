@@ -1,1 +1,3 @@
-trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-co.251313.xyz:443?security=tls&sni=www.cloudflare.com#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%236741%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.190.81:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%235296%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.210.216:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%235297%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@starlink-co.251313.xyz:443?security=tls&sni=www.cloudflare.com#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%235768%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

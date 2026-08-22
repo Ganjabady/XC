@@ -1,2 +1,2 @@
-vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237338%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://474651c3-72c6-49c4-b747-ca7e2c838564@azerbaijan.zelnora.ir:64584?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237448%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://474651c3-72c6-49c4-b747-ca7e2c838564@azerbaijan.zelnora.ir:64584?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237028%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237052%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

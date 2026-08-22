@@ -1,1 +1,1 @@
-vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sk2.sywl4.uk&fp=chrome&security=reality&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&sid=abcdef99#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%236682%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://0ce122a3-1c91-4cf5-a2cc-67f25e8cb56f@sk2.sywl4.uk:443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sk2.sywl4.uk&fp=chrome&security=reality&pbk=ETeAUJpZugcGIO-dbjgx55mH835m026nveRvLYVsuU4&sid=abcdef99#%F0%9F%87%B8%F0%9F%87%B0%20SK%20%236160%20%7C%20%40V2XCore%20%F0%9F%94%B0

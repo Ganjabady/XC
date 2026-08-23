@@ -1,1 +1,1 @@
-trojan://MiTiVPN@213.182.199.137:443?sni=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%232948%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://MiTiVPN@213.182.199.137:443?sni=66-mitivpn--mitivpn------mitivpn.mitivpn-s.lifestyle#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%231998%20%7C%20%40V2XCore%20%F0%9F%94%B0

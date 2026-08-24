@@ -1,3 +1,3 @@
-vless://a5194487-9b9a-462f-a047-ac7580d80201@94.20.154.22:443?sni=kotakbla.b-cdn.net&alpn=http/1.1&type=ws&host=kotakbla.b-cdn.net&path=/fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237015%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237313%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://474651c3-72c6-49c4-b747-ca7e2c838564@azerbaijan.zelnora.ir:64584?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237514%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://a5194487-9b9a-462f-a047-ac7580d80201@94.20.154.22:443?allowInsecure=1&sni=kotakbla.b-cdn.net&alpn=http/1.1&type=ws&host=kotakbla.b-cdn.net&path=/fp=firefox&security=tls#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237211%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://474651c3-72c6-49c4-b747-ca7e2c838564@azerbaijan.zelnora.ir:64584?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237494%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://a8307b5d-2d9e-4d34-912d-5b5dd8340082@azerbaijan.zelnora.ir:64584?encryption=none&type=tcp#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237504%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

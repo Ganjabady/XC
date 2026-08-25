@@ -1,1 +1,1 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@181.36.229.212:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%B4%20DO%20%234950%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@181.36.229.212:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%B4%20DO%20%235101%20%7C%20%40V2XCore%20%E2%9C%A8

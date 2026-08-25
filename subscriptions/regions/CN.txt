@@ -1,3 +1,1 @@
-trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?host=vpn-node.internal&path=%2FxVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%237495%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528?encryption=none&type=tcp#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%237514%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://f0169b08-43fd-4dc3-8195-18f6ad2fe39d@120.227.1.43:12528#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%237515%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+trojan://1addb6f6-c65a-4652-91e7-cbf3c6fa6f95@221.230.19.73:48966?host=vpn-node.internal&path=%2FxVpnTrojanWsSvc7f3a&security=tls&sni=vpn-node.internal&type=ws#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%237294%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

@@ -1,1 +1,2 @@
-vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@149.130.173.227:62145?security=none&type=tcp&packetEncoding=none#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%235038%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@157.137.236.160:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%234836%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://8fb65472-5957-4f64-ba2d-b5812b2f155a@158.247.120.174:62145?&type=tcp&headerType=none&path=%2F#%F0%9F%87%A8%F0%9F%87%B4%20CO%20%234841%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

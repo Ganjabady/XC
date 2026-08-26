@@ -1,1 +1,1 @@
-vless://a5194487-9b9a-462f-a047-ac7580d80201@94.20.154.22:443?&security=tls&sni=kotakbla.b-cdn.net&type=ws&headerType=none&host=kotakbla.b-cdn.net&path=%2Ffp%3Dfirefox#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237368%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://a5194487-9b9a-462f-a047-ac7580d80201@94.20.154.22:443?&security=tls&sni=kotakbla.b-cdn.net&type=ws&headerType=none&host=kotakbla.b-cdn.net&path=%2Ffp%3Dfirefox#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%237390%20%7C%20%40V2XCore%20%F0%9F%92%8E

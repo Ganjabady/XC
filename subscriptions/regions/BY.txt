@@ -1,2 +1,2 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@191.44.32.253:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%237216%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@185.179.82.246:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%237479%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@191.44.32.253:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%237926%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@185.179.82.246:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A7%F0%9F%87%BE%20BY%20%238023%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

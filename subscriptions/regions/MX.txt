@@ -1,3 +1,3 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.86.91:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235629%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.88.154:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235670%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-https://45.134.9.41:443#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235712%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://ca9df148-e636-47fe-9af6-fe8fe3eec197@139.177.103.135:8443?&security=reality&flow=xtls-rprx-vision&pbk=LiSrIOq9pojF5iZc2c660LUAESwEWbxzt1YR96xz4k4&fp=chrome&sni=tesla.com&type=tcp&headerType=none&host=tesla.com&path=%2F#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%234430%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.86.91:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%234999%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@216.238.88.154:8443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%235081%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

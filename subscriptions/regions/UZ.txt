@@ -1,1 +1,1 @@
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@157.22.128.7:443?fp=chrome&host=1lhcl.2mja.otp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=1lhcl.2mja.otp.hh.vavava.kdns.fr&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%238948%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@157.22.128.7:443?fp=chrome&host=1lhcl.2mja.otp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=1lhcl.2mja.otp.hh.vavava.kdns.fr&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%238653%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

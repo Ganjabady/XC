@@ -1,2 +1,2 @@
-trojan://humanity@213.182.199.137:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%230919%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://humanity@213.182.199.137:443?security=tls&type=ws&sni=www.pleadcourt.org&path=/assignment&host=www.pleadcourt.org#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%233642%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+trojan://humanity@213.182.199.137:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%231651%20%7C%20%40V2XCore%20%F0%9F%9A%80
+trojan://humanity@213.182.199.137:443?security=tls&type=ws&sni=www.pleadcourt.org&path=/assignment&host=www.pleadcourt.org#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%233874%20%7C%20%40V2XCore%20%F0%9F%92%8E

@@ -1,8 +1,8 @@
-vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239794%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239811%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-ss://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239814%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@157.22.128.7:443?fp=chrome&host=1lhcl.2mja.otp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=1lhcl.2mja.otp.hh.vavava.kdns.fr&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239816%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239818%20%7C%20%40V2XCore%20%F0%9F%94%B0
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?security=none&type=ws&path=/5021201ef53f&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239820%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-ss://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239923%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%239926%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310023%20%7C%20%40V2XCore%20%F0%9F%92%8E
+ss://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310026%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@157.22.128.7:443?fp=chrome&host=1lhcl.2mja.otp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=1lhcl.2mja.otp.hh.vavava.kdns.fr&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310035%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310046%20%7C%20t.me/V2XCore%20%E2%9C%A8
+ss://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310053%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?path=%2F5021201ef53f&security=none&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310058%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087?security=none&type=ws&path=/5021201ef53f&packetEncoding=xudp&encryption=none#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310061%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310635%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

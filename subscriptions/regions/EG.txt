@@ -1,1 +1,1 @@
-vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?security=none&type=ws&path=/d1000b16fe76&packetEncoding=xudp&encryption=none#%F0%9F%87%AA%F0%9F%87%AC%20EG%20%239435%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://cd842ef8-9577-47f3-83ca-627147ed291b@38.54.59.209:2087?security=none&type=ws&path=/d1000b16fe76&packetEncoding=xudp&encryption=none#%F0%9F%87%AA%F0%9F%87%AC%20EG%20%239528%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

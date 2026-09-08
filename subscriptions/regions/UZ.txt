@@ -1,4 +1,2 @@
-vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@157.22.128.7:443?fp=chrome&host=1lhcl.2mja.otp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=1lhcl.2mja.otp.hh.vavava.kdns.fr&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310394%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-ss://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310469%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&amp;encryption=none&amp;type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310493%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2311227%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@157.22.128.7:443?fp=chrome&host=1lhcl.2mja.otp.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560&security=tls&sni=1lhcl.2mja.otp.hh.vavava.kdns.fr&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310405%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://894fe9f0-b998-49c0-8003-a5007de921e1@189.74.97.47:2087?path=%2F755276b33b6f&encryption=none&type=ws#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2310420%20%7C%20%40V2XCore%20%F0%9F%8E%AF

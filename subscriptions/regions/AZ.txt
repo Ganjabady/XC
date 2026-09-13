@@ -1,2 +1,1 @@
-vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2311492%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?&type=tcp&headerType=none&host=basalam.horqen.ir&path=%2F#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2311505%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://c12db015-a63c-43e5-a744-6398a90373b5@basalam.horqen.ir:21289?&type=tcp&headerType=none&host=basalam.horqen.ir&path=%2F#%F0%9F%87%A6%F0%9F%87%BF%20AZ%20%2311358%20%7C%20t.me/V2XCore%20%F0%9F%91%91

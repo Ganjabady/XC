@@ -1,8 +1,9 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239354%20%7C%20%40V2XCore%20%F0%9F%92%8E
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239370%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239373%20%7C%20%40V2XCore%20%F0%9F%94%A5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239378%20%7C%20%40V2XCore%20%E2%9C%A8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239388%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=ir-viper.failspace.top&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239397%20%7C%20%40V2XCore%20%F0%9F%92%8E
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2&sni=ir.failspace.top&type=tcp&headerType=none&path=%2F#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239399%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=ir-new.failspace.top&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%2311828%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239225%20%7C%20t.me/V2XCore%20%E2%9C%A8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239234%20%7C%20%40V2XCore%20%F0%9F%9A%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239240%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://c7e9c591-2764-423a-afca-efbd010fd396@54.229.164.147:2053?security=tls&type=ws&path=/&host=forfreeuse.rtqa.ru&packetEncoding=xudp&sni=forfreeuse.rtqa.ru&fp=chrome#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239241%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239242%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMQjJKOE12VHQyU0JnRDZv@20.238.35.153:443#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239243%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=ir-viper.failspace.top&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239403%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.164:443?&security=tls&flow=xtls-rprx-vision&fp=firefox&alpn=h2&sni=ir.failspace.top&type=tcp&headerType=none&path=%2F#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%239421%20%7C%20%40V2XCore%20%F0%9F%9A%80
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new.failspace.top:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=ir-new.failspace.top&fp=firefox&flow=xtls-rprx-vision&encryption=none#%F0%9F%87%AE%F0%9F%87%AA%20IE%20%2311173%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

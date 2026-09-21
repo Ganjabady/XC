@@ -1,2 +1,2 @@
-vless://79bc7b01-6e4e-4365-a120-fefac8182bd9@34.51.23.2:443?fp=chrome&pbk=vFcM44RcbcO5jcrSWHLd_0exXAnnJLhpCNnMrWCwlzI&security=reality&sid=65f01b4b99e52015&sni=www.cloudflare.com#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%238921%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-vless://9ad81959-02c6-4679-a419-2af6a16ca07a@34.51.29.171:443?fp=chrome&pbk=8vHditYTXXNZ37iNTraU4w129svOplF0QUhZwX2n3FA&security=reality&sid=dcabbf24adf88abc&sni=www.cloudflare.com#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%238925%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%238670%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%238685%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

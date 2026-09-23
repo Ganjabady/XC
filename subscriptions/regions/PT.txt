@@ -1,2 +1,2 @@
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@195.133.92.20:443?allowInsecure=1&sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2311278%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?type=ws&host=Fastapi.Org&path=#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2311852%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@195.133.92.20:443?allowInsecure=1&sni=shuma.ccwu.cc&type=ws&host=shuma.ccwu.cc&path=/fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2310598%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://3b940e86-7b0d-40da-acf1-12d334e41023@146.75.88.11:80?type=ws&host=Fastapi.Org&path=#%F0%9F%87%B5%F0%9F%87%B9%20PT%20%2310960%20%7C%20%40V2XCore%20%F0%9F%9A%80

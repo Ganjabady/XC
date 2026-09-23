@@ -1,2 +1,2 @@
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%238817%20%7C%20%40V2XCore%20%E2%9C%A8
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%238841%20%7C%20t.me/V2XCore%20%E2%9C%A8
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%239195%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%239448%20%7C%20%40V2XCore%20%F0%9F%94%A5

@@ -1,1 +1,1 @@
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.99.2.175:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%2311231%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.99.2.175:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%A7%F0%9F%87%A6%20BA%20%2311343%20%7C%20%40V2XCore%20%F0%9F%91%91

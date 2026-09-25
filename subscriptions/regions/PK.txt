@@ -1,2 +1,2 @@
-vless://b2141c97-76af-ff6f-839b-70a53e23aad9@103.175.79.4:8443?security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=download.autodesk.com#%F0%9F%87%B5%F0%9F%87%B0%20PK%20%238799%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://b2141c97-76af-ff6f-839b-70a53e23aad9@103.175.79.4:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B0%20PK%20%238819%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://b2141c97-76af-ff6f-839b-70a53e23aad9@103.175.79.4:8443?security=reality&encryption=none&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE&fp=chrome&type=grpc&serviceName=TunService&sni=download.autodesk.com#%F0%9F%87%B5%F0%9F%87%B0%20PK%20%239518%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://b2141c97-76af-ff6f-839b-70a53e23aad9@103.175.79.4:443?sni=download.nvidia.com&fp=chrome&security=tls#%F0%9F%87%B5%F0%9F%87%B0%20PK%20%239555%20%7C%20%40V2XCore%20%F0%9F%94%B0

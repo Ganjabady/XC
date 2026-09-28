@@ -1,1 +1,1 @@
-trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&sni=la.freeguard.org#%F0%9F%87%B3%F0%9F%87%AC%20NG%20%2312289%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&sni=la.freeguard.org#%F0%9F%87%B3%F0%9F%87%AC%20NG%20%2312755%20%7C%20t.me/V2XCore%20%F0%9F%91%91

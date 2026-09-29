@@ -1,1 +1,1 @@
-vmess://d13fc2f5-3e05-4795-81eb-44143a09e552@82.198.246.97:180?encryption=auto&amp;security=none&amp;type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2329894%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vmess://04621bae-ab36-11ec-b909-0242ac120002@45.80.215.8:22324?encryption=auto&amp;security=none&amp;type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20FR%20%2310256%20%7C%20%40V2XCore%20%F0%9F%94%A5

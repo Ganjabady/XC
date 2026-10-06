@@ -1,1 +1,1 @@
-vless://8710a337-f504-4b75-8989-224cfd803b2d@2.27.26.128:443?sni=aq-1.global-cdn.org&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%A6%F0%9F%87%B6%20AQ%20%2310956%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+vless://8710a337-f504-4b75-8989-224cfd803b2d@2.27.26.128:443?sni=aq-1.global-cdn.org&flow=xtls-rprx-vision&fp=safari&security=tls#%F0%9F%87%A6%F0%9F%87%B6%20AQ%20%2311902%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

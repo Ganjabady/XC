@@ -1,3 +1,4 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@2.56.207.67:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2314075%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@2.56.207.67:443?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2314076%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?sni=yahoo.com&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2314455%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@2.56.207.67:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2313812%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@2.56.207.67:443?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2313964%20%7C%20%40V2XCore%20%E2%9C%A8
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?sni=www.google.com&type=grpc&serviceName=grpc&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2314604%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?sni=www.google.com&type=grpc&serviceName=grpc&fp=chrome&security=tls#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2314636%20%7C%20%40V2XCore%20%E2%9C%A8

@@ -1,2 +1,2 @@
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%239899%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?type=ws&path=/vless/security=tls#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%2310926%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@216.238.79.164:443?fp=chrome&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&type=ws#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%239714%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://a6d20e79-d326-42c1-bc20-f4cecc6dc42d@ul-mexico1.09vpn.com:8443?type=ws&path=/vless/security=tls#%F0%9F%87%B2%F0%9F%87%BD%20MX%20%2311801%20%7C%20%40V2XCore%20%F0%9F%8E%AF

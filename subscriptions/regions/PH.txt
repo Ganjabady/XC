@@ -1,1 +1,7 @@
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2314660%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform106.golnamakcert.top:80?type=ws&host=platform106.halalkhor.info&path=/platform106#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2315013%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform101.golnamakcert.top:80?type=ws&host=platform101.halalkhor.info&path=/platform101#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2315033%20%7C%20%40V2XCore%20%F0%9F%92%8E
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform108.golnamakcert.top:80?sni=platform108.golnamakcert.top&type=ws&host=platform108.halalkhor.info&path=/platform108#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2315085%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform107.golnamakcert.top:80?type=ws&path=/platform107#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2315090%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform102.golnamakcert.top:80?sni=platform102.golnamakcert.top&type=ws&host=platform102.halalkhor.info&path=/platform102#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2315096%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform103.golnamakcert.top:80?sni=platform103.halalkhor.info&type=ws&host=platform103.halalkhor.info&path=/platform103#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2315124%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://e13cf851-b4fd-413b-8d49-146e6eb8e5d4@platform109.golnamakcert.top:80?sni=platform109.halalkhor.info&type=ws&host=platform109.halalkhor.info&path=/platform109#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2315126%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

@@ -1,2 +1,2 @@
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@181.36.229.212:443?sni=x.m-90.xyz&type=ws&host=x.m-90.xyz&path=t.me/TEAMNETGRATISCOLfp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%B4%20DO%20%2314489%20%7C%20t.me/V2XCore%20%E2%9C%A8
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@181.36.229.212:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%B4%20DO%20%2314491%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@181.36.229.212:443?sni=x.m-90.xyz&type=ws&host=x.m-90.xyz&path=t.me/TEAMNETGRATISCOLfp=firefox&security=tls#%F0%9F%87%A9%F0%9F%87%B4%20DO%20%2313928%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@181.36.229.212:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A9%F0%9F%87%B4%20DO%20%2313939%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,1 +1,1 @@
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2313485%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@157.22.128.7:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560fp=chromefp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2318107%20%7C%20%40V2XCore%20%F0%9F%9A%80

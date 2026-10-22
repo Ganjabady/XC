@@ -1,1 +1,1 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@206.237.107.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2318956%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@206.237.107.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2318437%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

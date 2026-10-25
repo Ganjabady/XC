@@ -1,2 +1,1 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@170.80.111.48:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%B9%20GT%20%2315195%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@170.80.111.48:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%B9%20GT%20%2315227%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@170.80.111.48:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%AC%F0%9F%87%B9%20GT%20%2314735%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

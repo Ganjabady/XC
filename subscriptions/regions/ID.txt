@@ -1,1 +1,2 @@
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319849%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://5a380395-9c91-4174-8330-475d1235ed61@202.10.40.89:8443?security=reality&encryption=none&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amproject.my.id&sid=5b4a12ef7e1694dd#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319915%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319952%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

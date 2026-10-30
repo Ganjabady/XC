@@ -1,1 +1,1 @@
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2318861%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?sni=free.cndyw.ggff.net&type=ws&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.comfp=randomsecurity=tls#%F0%9F%87%BA%F0%9F%87%BF%20UZ%20%2318980%20%7C%20%40V2XCore%20%F0%9F%91%91

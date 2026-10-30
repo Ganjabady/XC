@@ -1,1 +1,1 @@
-vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319615%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319363%20%7C%20t.me/V2XCore%20%E2%9C%A8

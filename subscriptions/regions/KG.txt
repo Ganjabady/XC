@@ -1,3 +1,4 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@193.36.95.34:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2320071%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.240.213.98:2053?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2320320%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
-vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@193.36.95.34:443?encryption=none&security=tls&sni=indigostar.click&type=ws&path=%2Fws#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2320397%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@193.36.95.34:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560fp=chrome&security=tls#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2319648%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@193.36.95.34:443?encryption=none&security=tls&sni=indigostar.click&type=ws&path=%2Fws#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2319782%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://humanity@212.2.227.187:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2319960%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
+trojan://humanity@212.2.227.187:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2319965%20%7C%20%40V2XCore%20%F0%9F%94%B0

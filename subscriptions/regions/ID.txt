@@ -1,2 +1,2 @@
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320000%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320001%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320040%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320057%20%7C%20%40V2XCore%20%E2%9C%A8

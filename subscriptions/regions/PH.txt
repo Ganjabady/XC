@@ -1,4 +1,4 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@206.237.107.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2319352%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320133%20%7C%20%40V2XCore%20%F0%9F%9A%80
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320179%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320202%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@206.237.107.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320021%20%7C%20t.me/V2XCore%20%E2%9C%A8
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320296%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@149.104.109.252:8882#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320301%20%7C%20%40V2XCore%20%F0%9F%92%8E
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320492%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

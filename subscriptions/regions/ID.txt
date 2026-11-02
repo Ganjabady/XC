@@ -1,4 +1,4 @@
-vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319640%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
-trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319809%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?allowInsecure=1&sni=in001.zestapp778.com&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319813%20%7C%20%40V2XCore%20%F0%9F%9A%80
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&type=tcp&packetEncoding=xudp&sni=in001.zestapp778.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2319924%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?security=tls&type=ws&path=%2F&host=ccc.010304.xyz&packetEncoding=xudp&sni=ccc.010304.xyz&fp=chrome&encryption=none#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320083%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?allowInsecure=1&sni=in001.zestapp778.com&fp=firefox&security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320102%20%7C%20%40V2XCore%20%E2%9C%A8
+trojan://idc117okt@103.226.139.201:443?security=tls#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320162%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?security=tls&type=tcp&packetEncoding=xudp&sni=in001.zestapp778.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%A9%20ID%20%2320585%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

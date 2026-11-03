@@ -1,2 +1,4 @@
-anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321152%20%7C%20%40V2XCore%20%F0%9F%8E%AF
-anytls://0324fbc29561@684616s4.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321214%20%7C%20%40V2XCore%20%F0%9F%92%8E
+anytls://0324fbc29561@684616s4.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320686%20%7C%20%40V2XCore%20%E2%9C%A8
+anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320769%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+anytls://4bbfa33a-449a-4a50-8dfc-6d0de880f7bc@user02.godvpn.lol:62405?security=tls&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321196%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+anytls://0324fbc29561@56481.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2321265%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

@@ -1,1 +1,2 @@
-anytls://9sK2mP8xQ7vL3nZ6@ac7548f3ebe045b39a90288ff1e97528.pnuqcnp.cn:443?sni=ac7548f3ebe045b39a90288ff1e97528.lwdnxf.cn#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2313227%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321152%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+anytls://0324fbc29561@684616s4.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321214%20%7C%20%40V2XCore%20%F0%9F%92%8E

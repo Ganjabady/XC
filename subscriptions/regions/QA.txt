@@ -1,1 +1,1 @@
-vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?sni=as10.cdn77.icu&fp=firefox&security=tls#%F0%9F%87%B6%F0%9F%87%A6%20QA%20%2320699%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://1506f2e0-ae12-4718-b5ab-c5609161300e@149.104.121.174:8443?sni=as10.cdn77.icu&fp=firefox&security=tls#%F0%9F%87%B6%F0%9F%87%A6%20QA%20%2320050%20%7C%20%40V2XCore%20%F0%9F%91%91

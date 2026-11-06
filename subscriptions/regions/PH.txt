@@ -1,2 +1,2 @@
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320250%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320753%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320409%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46298?security=tls&sni=ph001.zestapp778.com#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320488%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

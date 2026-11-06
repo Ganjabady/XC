@@ -1,1 +1,2 @@
-anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320922%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+anytls://0324fbc29561@er8u54dh.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321023%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+anytls://0324fbc29561@56481.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2321031%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,1 +1,1 @@
-http://190.102.146.98:10101#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2312355%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@161.132.51.133:20040?security=tls&sni=www.cloudflare.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%AA%20PE%20%2318548%20%7C%20t.me/V2XCore%20%E2%9C%A8

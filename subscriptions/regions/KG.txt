@@ -1,1 +1,1 @@
-trojan://humanity@212.2.227.187:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2320521%20%7C%20%40V2XCore%20%F0%9F%91%91
+trojan://sI0wl1bvYlSXu2RsMSAtAIMM@213.155.9.83:20041?security=tls&sni=www.cloudflare.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%87%B0%F0%9F%87%AC%20KG%20%2321349%20%7C%20t.me/V2XCore%20%F0%9F%94%B0

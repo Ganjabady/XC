@@ -1,2 +1,2 @@
-anytls://4bbfa33a-449a-4a50-8dfc-6d0de880f7bc@user02.godvpn.lol:62405?security=tls&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320472%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320940%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
+anytls://4bbfa33a-449a-4a50-8dfc-6d0de880f7bc@user02.godvpn.lol:62405?security=tls&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320697%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321109%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

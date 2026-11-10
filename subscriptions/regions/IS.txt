@@ -1,4 +1,2 @@
-http://@185.165.170.1:9443?tls=true#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2316930%20%7C%20%40V2XCore%20%F0%9F%94%A5
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2318034%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@89.127.232.228:443?sni=v2n4.11676767.xyz&type=ws&host=v2n4.11676767.xyz&path=/resource/topicsfp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2318342%20%7C%20t.me/V2XCore%20%F0%9F%91%91
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.127.235.250:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2318401%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2317354%20%7C%20%40V2XCore%20%F0%9F%94%B0
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@89.127.235.250:443?encryption=none&security=tls&type=ws&host=shuma.ccwu.cc&path=%2F&sni=shuma.ccwu.cc&fp=chrome#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2317948%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F

@@ -1,1 +1,1 @@
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321181%20%7C%20%40V2XCore%20%F0%9F%94%A5
+anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321166%20%7C%20t.me/V2XCore%20%F0%9F%9A%80

@@ -1,2 +1,2 @@
-vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@2.56.207.67:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2320075%20%7C%20%40V2XCore%20%F0%9F%91%91
-vless://c18b978e-1c4e-415c-8bea-07942b563a64@2.56.207.67:443?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2320084%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@2.56.207.67:443?encryption=none&security=tls&sni=shuma.ccwu.cc&fp=chrome&type=ws&host=shuma.ccwu.cc&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2319213%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://2eadb97f-bba4-4471-8d55-bd461525a2dc@2.56.207.67:443?&security=tls&fp=chrome&sni=eded-52n.pages.dev&type=ws&headerType=none&host=eded-52n.pages.dev&path=%2F#%F0%9F%87%A6%F0%9F%87%B2%20AM%20%2319219%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

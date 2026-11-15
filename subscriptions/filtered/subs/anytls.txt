@@ -1,1 +1,2 @@
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321317%20%7C%20%40V2XCore%20%F0%9F%94%B0
+anytls://9b24e5d0-62be-41df-b967-9b670cf90ff8@forwarded.frnhk.xyz:2086?security=tls&sni=de.gosthk.site&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2318078%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320722%20%7C%20%40V2XCore%20%F0%9F%94%A5

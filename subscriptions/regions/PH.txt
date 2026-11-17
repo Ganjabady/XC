@@ -1,1 +1,1 @@
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@120.89.61.213:443?sni=ph1.gofizz.in&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2319740%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@120.89.61.213:443?sni=ph1.gofizz.in&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B5%F0%9F%87%AD%20PH%20%2320813%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,3 +1,3 @@
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.85.25.226:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2319384%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&flow=&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2321116%20%7C%20t.me/V2XCore%20%F0%9F%94%A5
-https://118.184.140.90:58764#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2321824%20%7C%20%40V2XCore%20%F0%9F%94%A5
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.85.25.226:8443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fp=chrome&security=tls#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2316238%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+http://@118.184.140.90:58764?tls=true#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320646%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&flow=&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320900%20%7C%20t.me/V2XCore%20%F0%9F%92%8E

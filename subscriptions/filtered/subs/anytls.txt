@@ -1,1 +1,11 @@
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2322014%20%7C%20%40V2XCore%20%F0%9F%91%91
+anytls://c698e777-2ede-446c-aa76-04ea46070e43@turn.gosthk.site:57180?security=tls&sni=turn.gosthk.site&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2319789%20%7C%20%40V2XCore%20%F0%9F%91%91
+anytls://3a3bd9e1-3762-4f6f-8d10-bf32846d2824@sfu.gosthk.site:57180?security=tls&sni=sfu.gosthk.site&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320110%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+anytls://36013ba3-3fe6-4553-a2ee-f2946a44f425@media.gosthk.site:57180?security=tls&sni=media.gosthk.site&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320136%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+anytls://e2413369-16de-4c90-97c5-b39b8d6b71cd@im.frnhk.xyz:443?security=tls&sni=im.frnhk.xyz&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2320332%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
+anytls://2902c46c8493@er8u54dh.df6h451rh.xin:443?security=tls&sni=px.ads.linkedin.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321060%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+anytls://2902c46c8493@rtifgjdr.df6h451rh.xin:443?security=tls&sni=docs.microsoft.com&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321105%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+anytls://0324fbc29561@a54ge.df6h451rh.xin:443?security=tls&sni=docs.microsoft.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321189%20%7C%20%40V2XCore%20%F0%9F%91%91
+anytls://2902c46c8493@rtifgjdr.df6h451rh.xin:443?security=tls&sni=docs.microsoft.com&fp=chrome&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321244%20%7C%20t.me/V2XCore%20%F0%9F%94%B0
+anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&fp=chrome&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321260%20%7C%20%40V2XCore%20%E2%9C%A8
+anytls://2902c46c8493@ibsdsf.df6h451rh.xin:443?security=tls&sni=docs.microsoft.com&insecure=1&allowInsecure=1&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20HK%20%2321266%20%7C%20t.me/V2XCore%20%F0%9F%92%8E
+anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2321337%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F

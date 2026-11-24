@@ -1,1 +1,1 @@
-vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?sni=191.217.201.227&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2319656%20%7C%20%40V2XCore%20%F0%9F%91%91
+vless://2bba3b63-eb4c-470b-aa58-ae9d4a1430c8@191.217.201.227:443?sni=191.217.201.227&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%AD%F0%9F%87%B7%20HR%20%2318594%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F

@@ -1,7 +1,1 @@
-anytls://09cac7f2-2480-485f-affc-35aebdb21cb8@212.189.31.45:50000?security=tls&sni=www.amd.com&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2315854%20%7C%20%40V2XCore%20%F0%9F%92%8E
-anytls://9ffb5305-3bab-44cb-aafa-e0e3991fdf6b@us4837.85s.me:443?security=tls&sni=us4837.85s.me&fp=chrome&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2316147%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-anytls://9ffb5305-3bab-44cb-aafa-e0e3991fdf6b@jpat.85s.me:443?security=tls&sni=jpat.85s.me&fp=chrome&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%AF%F0%9F%87%B5%20JP%20%2321183%20%7C%20%40V2XCore%20%F0%9F%9A%80
-anytls://9ffb5305-3bab-44cb-aafa-e0e3991fdf6b@gs.85s.me:443?security=tls&sni=gs.85s.me&fp=chrome&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%2322314%20%7C%20t.me/V2XCore%20%E2%9A%A1%EF%B8%8F
-anytls://9ffb5305-3bab-44cb-aafa-e0e3991fdf6b@tw.85s.me:443?security=tls&sni=tw.85s.me&fp=chrome&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2322513%20%7C%20t.me/V2XCore%20%E2%9C%A8
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2322633%20%7C%20%40V2XCore%20%F0%9F%94%B0
-anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&fp=chrome&insecure=0&allowInsecure=0&type=tcp#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2322673%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+anytls://0324fbc29561@sdf65h46wr.df6h451rh.xin:443?security=tls&sni=images.ctfassets.net&insecure=1#%F0%9F%87%B9%F0%9F%87%BC%20TW%20%2322014%20%7C%20%40V2XCore%20%F0%9F%91%91

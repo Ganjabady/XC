@@ -1,1 +1,1 @@
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2318672%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#%F0%9F%87%AE%F0%9F%87%B8%20IS%20%2317698%20%7C%20t.me/V2XCore%20%F0%9F%94%A5

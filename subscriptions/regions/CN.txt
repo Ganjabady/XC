@@ -1,1 +1,1 @@
-vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&flow=&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2321215%20%7C%20%40V2XCore%20%E2%9A%9C%EF%B8%8F
+vless://d6b8011a-c725-435a-9fec-bf6d3530392c@117.187.185.76:443?type=ws&encryption=none&flow=&host=vlee.amclubs.nyc.mn&path=%2F%3Fed%3D2560&security=tls&sni=vlee.amclubs.nyc.mn&fp=randomized#%F0%9F%87%A8%F0%9F%87%B3%20CN%20%2320894%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F

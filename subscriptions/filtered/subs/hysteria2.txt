@@ -1,7 +1,6 @@
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%2317841%20%7C%20t.me/V2XCore%20%F0%9F%8E%AF
-hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2318291%20%7C%20t.me/V2XCore%20%E2%9A%9C%EF%B8%8F
-hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2318857%20%7C%20%40V2XCore%20%F0%9F%94%A5
-hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@r7m4.scan-cdn.com:443?sni=r7m4.scan-cdn.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2318930%20%7C%20%40V2XCore%20%F0%9F%9A%80
-hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%2319946%20%7C%20t.me/V2XCore%20%F0%9F%9A%80
-hysteria2://cdfb74db-f288-4271-960d-6d31c4ef75cc@tomsk.gosgenarchive.com:8443?insecure=0&alpn=h3&sni=tomsk.gosgenarchive.com&obfs=salamander&obfs-password=x9KvL2mP4nC72H3w#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%2319981%20%7C%20%40V2XCore%20%F0%9F%91%91
-hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?sni=xship.top&insecure=1&allowInsecure=1#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2321780%20%7C%20%40V2XCore%20%E2%9A%A1%EF%B8%8F
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#%F0%9F%87%A6%F0%9F%87%AA%20AE%20%2317044%20%7C%20t.me/V2XCore%20%E2%9C%A8
+hysteria2://Telegram@179.61.138.145:443?insecure=1&sni=de2.jey.cc.cd&obfs=salamander&obfs-password=Telegram@vpnjey#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%2317748%20%7C%20%40V2XCore%20%F0%9F%8E%AF
+hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%2319737%20%7C%20%40V2XCore%20%F0%9F%94%A5
+hysteria2://cdfb74db-f288-4271-960d-6d31c4ef75cc@tomsk.gosgenarchive.com:8443?insecure=0&alpn=h3&sni=tomsk.gosgenarchive.com&obfs=salamander&obfs-password=x9KvL2mP4nC72H3w#%F0%9F%87%B5%F0%9F%87%B1%20PL%20%2319800%20%7C%20t.me/V2XCore%20%F0%9F%91%91
+hysteria2://87bb2ac4-b7a1-0001-b11d-2107709ea6cb@136.148.83.69:443?sni=szqbx-ru-77dc.my-fade.cloud#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%2319947%20%7C%20%40V2XCore%20%F0%9F%94%A5
+hysteria2://d7121b33-e335-4921-bb00-4c0b157e7fc1@r7m4.scan-cdn.com:443?sni=r7m4.scan-cdn.com#%F0%9F%87%BA%F0%9F%87%B8%20US%20%2319948%20%7C%20t.me/V2XCore%20%F0%9F%91%91
